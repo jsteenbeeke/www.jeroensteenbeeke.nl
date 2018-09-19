@@ -1,0 +1,10 @@
+# Site settings
+title:
+email:
+author:
+description:
+url:
+
+sass:
+    sass_dir: ./_scss
+

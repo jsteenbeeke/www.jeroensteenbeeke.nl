@@ -1,0 +1,14 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import "custom/variables";
+@import "bootstrap/bootstrap";
+
+body {
+	background-image: url('/assets/img/background.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+}
