@@ -24,7 +24,7 @@ pipeline {
 				withCredentials([sshUserPrivateKey(credentialsId: 'jekyll-deploy-key', keyFileVariable: 'sshKeyFile')]) {
 				    sh 'mkdir -p /home/jenkins/.ssh'
 		                    sh 'cp '+ sshKeyFile +' /home/jenkins/.ssh/id_rsa'
-                		    sh 'echo host repo.jeroensteenbeeke.nl > /home/jenkins/.ssh/config'
+                		    sh 'echo host 23.94.72.114 > /home/jenkins/.ssh/config'
 		                    sh 'echo "\tStrictHostKeyChecking no" >> /home/jenkins/.ssh/config'
 		                    sh 'chmod 0400 /home/jenkins/.ssh/config'
 				    sh 'rsync -r _site/ deploy@23.94.72.114:/home/deploy/_site/'
