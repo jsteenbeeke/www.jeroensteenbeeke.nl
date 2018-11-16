@@ -3,7 +3,6 @@ pipeline {
 		docker {
 			image 'registry.jeroensteenbeeke.nl/jekyll-builder:latest'
 			label 'docker'
-			args '-u jenkins'
 		}
 	}
 
