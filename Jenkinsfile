@@ -21,12 +21,12 @@ pipeline {
 		stage('Publish') {
 			steps {
 				withCredentials([sshUserPrivateKey(credentialsId: 'jekyll-deploy-key', keyFileVariable: 'sshKeyFile')]) {
-				    sh 'mkdir -p /home/jenkins/.ssh'
-		                    sh 'cp '+ sshKeyFile +' /home/jenkins/.ssh/id_rsa'
-                		    sh 'echo host 23.94.72.114 > /home/jenkins/.ssh/config'
-		                    sh 'echo "\tStrictHostKeyChecking no" >> /home/jenkins/.ssh/config'
-		                    sh 'chmod 0400 /home/jenkins/.ssh/config'
-				    sh 'rsync --delete -r _site/ deploy@23.94.72.114:/home/deploy/_site/'
+				    sh 'mkdir -p $HOME/.ssh'
+		                    sh 'cp '+ sshKeyFile +' $HOME/.ssh/id_rsa'
+                		    sh 'echo host 23.94.72.114 > $HOME/.ssh/config'
+		                    sh 'echo "\tStrictHostKeyChecking no" >> $HOME/.ssh/config'
+		                    sh 'chmod 0400 $HOME/.ssh/config'
+				    sh 'rsync --delete -r /work/_site/ deploy@23.94.72.114:/home/deploy/_site/'
 				}
 
 			}
