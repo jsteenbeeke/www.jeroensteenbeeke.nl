@@ -3,7 +3,6 @@ pipeline {
 		docker {
 			image 'registry.jeroensteenbeeke.nl/jekyll-builder:latest'
 			label 'docker'
-  		        additionalBuildArgs  '--build-arg USER_HOME_DIR=/home/jenkins'
 			args '-u jenkins'
 		}
 	}
