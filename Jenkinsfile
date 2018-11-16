@@ -27,7 +27,7 @@ pipeline {
                 		    sh 'echo host 23.94.72.114 > /home/jenkins/.ssh/config'
 		                    sh 'echo "\tStrictHostKeyChecking no" >> /home/jenkins/.ssh/config'
 		                    sh 'chmod 0400 /home/jenkins/.ssh/config'
-				    sh 'rsync -r _site/ deploy@23.94.72.114:/home/deploy/_site/'
+				    sh 'rsync --delete -r _site/ deploy@23.94.72.114:/home/deploy/_site/'
 				}
 
 			}
