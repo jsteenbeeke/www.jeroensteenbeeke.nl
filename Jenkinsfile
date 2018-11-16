@@ -3,6 +3,7 @@ pipeline {
 		docker {
 			image 'registry.jeroensteenbeeke.nl/jekyll-builder:latest'
 			label 'docker'
+			args '-u root'
 		}
 	}
 
@@ -26,7 +27,7 @@ pipeline {
                 		    sh 'echo host 23.94.72.114 > $HOME/.ssh/config'
 		                    sh 'echo "\tStrictHostKeyChecking no" >> $HOME/.ssh/config'
 		                    sh 'chmod 0400 $HOME/.ssh/config'
-				    sh 'rsync --delete -r /work/_site/ deploy@23.94.72.114:/home/deploy/_site/'
+				    sh 'rsync --delete -r _site/ deploy@23.94.72.114:/home/deploy/_site/'
 				}
 
 			}
