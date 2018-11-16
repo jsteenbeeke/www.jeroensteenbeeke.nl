@@ -4,6 +4,7 @@ email:
 author:
 description:
 url:
+exclude: [Jenkinsfile]
 
 sass:
     sass_dir: ./_scss
