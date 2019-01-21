@@ -2,37 +2,50 @@
 layout: default
 title: Blog
 ---
-<div class="container">
+<div class="container card">
 {% for post in paginator.posts %}
-		<div class="row">
-		  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		  <p class="author">
-			    <span class="date">{{ post.date }}</span>
-		  </p>
-		  <div class="content">
-			    {{ post.excerpt }}
-
-			    <a href="{{ post.url }}">&raquo; Read more</a>
-		  </div>
+	<div class="row">
+		<div class="col-md-6">
+			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		</div>
+		<div class="col-md-3 offset-md-3">
+			<span class="date">{{ post.date }}</span>
+		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-12">
+			{{ post.excerpt }}
+			<a href="{{ post.url }}" class="readmore">&raquo; Read more</a>
+		</div>
+	</div>
+	<br /><br />
 {% endfor %}
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
+<nav>
+<ul class="pagination">
+	{% if paginator.previous_page %}
+	<li class="page-item">
+		  <a href="{{ paginator.previous_page_path }}" class="page-link">
+		      Previous
+		    </a>
   {% else %}
-    <span class="previous">Previous</span>
+	<li class="page-item disabled">
+    <a href="#" class="page-link">Previous</a>
   {% endif %}
-  <span class="page_number ">
+	</li>
+	<li class="page-item disabled">
+  <a href="#" class="page-link">
     Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
+  </a>
+	</li>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+	<li class="page-item">
+	    <a href="{{ paginator.next_page_path }}" class="page-link">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+	<li class="page-item disabled">
+	    <a href="#" class="page-link">Next</span>
   {% endif %}
-</div>
+	</li>
+</ul>
+</nav>
 </div>
