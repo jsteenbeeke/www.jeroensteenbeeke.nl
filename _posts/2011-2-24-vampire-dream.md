@@ -1,0 +1,28 @@
+---
+layout:    post
+title:     "The vampire dream"
+date:      2011-2-24 09:42:11 +0100
+excerpt_separator: <!--more-->
+permalink: /blog/2011/2/24/vampire-dream
+---
+
+The people who follow me on Twitter know I have strange dreams sometimes, and that I like to share those with others. Last night I dreamed about vampires, but when compared to other dreams, it actually made a whole lot of sense. Seeing as I'm getting a lot of questions about it from my Twitter followers, I thought I'd share some details of this dream.
+
+<!--more-->"""
+First of all, the dream was unusual because I spent most of it as a passive observer, looking over the shoulder of the &quot;main characters&quot; rather than being the main character in some way. My dreams usually feature me as main character. The dream takes place in an average high school of indeterminate origin (I'm guessing American, the people in my dream had English-sounding names), and started in a private room within this school (a teacher's lounge?). Inside this room are three people, two women and one man, seemingly in their late twenties or early thirties. The door leading to this room is locked, but it has a small internal hallway leading to a toilet. From this toilet emerges a blond man (who I am observing), flanked by another man and woman. These three also seem to be in their late twenties or early thirties. But the blond man I am observing is far older than that, he is a 700 year old vampire named Lysander. At this point it becomes clear that the other people in the room are vampires as well, and that they have come to this school looking for something.
+
+The door to the room then opens, giving entry to three girls aged no older than sixteen, and lead in there by another of the vampires. The girls are unaware of the danger they are in, but it quickly becomes clear they are not intended as food. Lysander, the leader of the vampires, is completely mesmerized by the oldest of the three girls, a girl with half-long blond hair with a rebellious air about her. He quickly steps towards her, and she quickly becomes entranced by his appearance (though the dream did not make clear whether this was because of some implied vampiric power, or simply a personal trait). Within seconds they are kissing each other, and afterwards he offers her to stay with him forever.
+
+Up until this point, the dream could have continued in several ways. But at this point it quickly becomes clear these are not diamond-skinned romantic vampires with a soul, but bloodthirsty killers acting more on lust than any moral code. This is demonstrated by the next part of the dream, in which I observe the girl who has Lysander's affection. She is seen stalking the school at night, and corners another girl near a window. The cornered girl quickly realizes she is facing a vampire, yet ironically enough she embraces her rather than panic or struggle. The cornered girl turns out to be a big fan of a certain popular young adult vampire series, and thinks vampires are &quot;awesome&quot;. The blond girl I am observing proceeds to drink a rather large quantity of her blood. When the delirious victim is finally released, she asks the vampire girl: &quot;Do I become one of you now?&quot;. The vampire girl then answers, &quot;No, now you die&quot;, just as her victim breathes out her last breath.
+"""
+I am not entirely sure why I dreamed of vampires last night. It's been a while since I've seen or read anything vampire-related (I think the last thing was an episode of True Blood, but that was months ago), so I doubt my dream was directly inspired by something I experienced or saw. I do recall thinking that what I experienced &quot;could make a great story&quot;, but there already is a lot of vampire-related fiction, and I'm not sure if writing such a thing is my cup of tea.
+
+I do think it's interesting to see that the vampires in my dream aren't of the overly emotional persuasion you often see in fiction these days. Rather than sensitive beings tormented by their thirst for blood, the vampires in my dream are clearly predators, more in line with movies such as The Lost Boys or with novels such as Salem's Lot. The dream sparked a lot of questions my author mind will most likely try to find answers to for quite a while.
+* Who is this Lysander, and just why was he so mesmerized by this rebellious young girl after having already lived for 700 years?
+* What are the implications of the vampire presence in this school? Will others try to stop them? Will they simply vanish?
+* The girl who is now a vampire, how does she cope with this? How will she be a month from now? A year from now? A century from now? A millennium?
+* What place do vampires have in this world? Are they a rare occurrence, or is there a vast society living in the shadows?
+
+The difference between this dream and others I've had is that it still made sense after I woke up. The only thing unreal about it was the fact that it was about vampires, but other than that it seemed to progress logically. No further laws of physics were broken (unlike a certain dream in which I was able to materialize an F16 Fighter Jet out of thin air), and the suspension of disbelief required was only minor (unlike a certain dream in which I was a crew member aboard an alien starship battling whales underwater).
+
+Having read about this dream, what does it mean to you? What questions pop up in your head?
