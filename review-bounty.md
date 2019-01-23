@@ -50,21 +50,9 @@ For the moment, only reviews in the **Amazon US** store qualify.
 
 | The Unbound | Next goal |
 | --- | --- |
-| 
-[Repulsion](http://www.amazon.com/dp/B017TF4XAQ)
- | 
-25 reviews
- |
-| 
-[Benediction](http://www.amazon.com/dp/B0182RBCX6)
- | 
-25 reviews
- |
-| 
-[Deliverance](http://www.amazon.com/dp/B019V8RY6Y)
- | 
-25 reviews
- |
+| [Repulsion](http://www.amazon.com/dp/B017TF4XAQ) | 25 reviews |
+| [Benediction](http://www.amazon.com/dp/B0182RBCX6) | 25 reviews |
+| [Deliverance](http://www.amazon.com/dp/B019V8RY6Y) | 25 reviews |
 | 
 [Vigilance](http://www.amazon.com/dp/B01AQPFH2Y)
  | 
