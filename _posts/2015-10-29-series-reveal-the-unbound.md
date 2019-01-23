@@ -30,16 +30,9 @@ Well enough of that! The project is nearing completion, so it's time I reveal wh
 *never knew existed.*
 
 
-| 
-![https://jeroensteenbeeke.nl/static/coverreveal/benediction.jpg](https://jeroensteenbeeke.nl/static/coverreveal/benediction.jpg)
- | 
-![https://jeroensteenbeeke.nl/static/coverreveal/deliverance.jpg](https://jeroensteenbeeke.nl/static/coverreveal/deliverance.jpg)
- |
-| 
-![https://jeroensteenbeeke.nl/static/coverreveal/vigilance.jpg](https://jeroensteenbeeke.nl/static/coverreveal/vigilance.jpg)
- | 
-![https://jeroensteenbeeke.nl/static/coverreveal/majesty.jpg](https://jeroensteenbeeke.nl/static/coverreveal/majesty.jpg)
- |
+| ![https://jeroensteenbeeke.nl/static/coverreveal/benediction.jpg](https://jeroensteenbeeke.nl/static/coverreveal/benediction.jpg) | ![https://jeroensteenbeeke.nl/static/coverreveal/deliverance.jpg](https://jeroensteenbeeke.nl/static/coverreveal/deliverance.jpg) |
+| --- | --- |
+| ![https://jeroensteenbeeke.nl/static/coverreveal/vigilance.jpg](https://jeroensteenbeeke.nl/static/coverreveal/vigilance.jpg) | ![https://jeroensteenbeeke.nl/static/coverreveal/majesty.jpg](https://jeroensteenbeeke.nl/static/coverreveal/majesty.jpg) |
 
 
 

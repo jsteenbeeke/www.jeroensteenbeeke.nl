@@ -53,49 +53,21 @@ For the moment, only reviews in the **Amazon US** store qualify.
 | [Repulsion](http://www.amazon.com/dp/B017TF4XAQ) | 25 reviews |
 | [Benediction](http://www.amazon.com/dp/B0182RBCX6) | 25 reviews |
 | [Deliverance](http://www.amazon.com/dp/B019V8RY6Y) | 25 reviews |
-| 
-[Vigilance](http://www.amazon.com/dp/B01AQPFH2Y)
- | 
-25 reviews
- |
-| 
-[Majesty](http://www.amazon.com/dp/B01BJ5703Y)
- | 
-25 reviews
- |
-| 
-[Incursion](https://www.amazon.com/dp/B078J6BYNZ/)
- | 
-25 reviews
- |
-|  |  |
-| --- | --- |
+| [Vigilance](http://www.amazon.com/dp/B01AQPFH2Y) | 25 reviews |
+| [Majesty](http://www.amazon.com/dp/B01BJ5703Y) | 25 reviews |
+| [Incursion](https://www.amazon.com/dp/B078J6BYNZ/) | 25 reviews |
+
+
 | The Hunter in the Dark | Next goal |
 | --- | --- |
-| 
-[Gift of the Destroyer](http://www.amazon.com/dp/B0063UB58W)
- | 
-50 reviews
- |
-| 
-[The Raven's Endgame](http://www.amazon.com/dp/B009BTQR4E)
- | 
-25 reviews
- |
-| 
-[Hunter's Chosen](http://www.amazon.com/dp/B00E75JUP0)
- | 
-25 reviews
- |
-|  |  |
-| --- | --- |
+| [Gift of the Destroyer](http://www.amazon.com/dp/B0063UB58W) | 50 reviews |
+| [The Raven's Endgame](http://www.amazon.com/dp/B009BTQR4E) | 25 reviews |
+| [Hunter's Chosen](http://www.amazon.com/dp/B00E75JUP0) | 25 reviews |
+
+
 | Standalone | Next goal |
 | --- | --- |
-| 
-[The Troll Warriors of Sheepbane](http://www.amazon.com/dp/B00HCBAIW0)      
- | 
-25 reviews
- |
+| [The Troll Warriors of Sheepbane](http://www.amazon.com/dp/B00HCBAIW0) | 25 reviews |
 
 
 
@@ -129,4 +101,4 @@ At the current count: 237 books. Further releases will increase this number, and
 You can only win each set once (there are currently three). But you can enter more than once by reviewing more than 1 book in each series.
 
 **I found a loophole in these rules!**
-Awesome, [contact me](/contact.html) and tell me all about it. I'll fix it ASAP. Keep in mind that I reserve the right to modify the rules to prevent abuse.
+Awesome, [contact me](https://www.jeroensteenbeeke.nl/contact) and tell me all about it. I'll fix it ASAP. Keep in mind that I reserve the right to modify the rules to prevent abuse.
