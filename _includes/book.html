@@ -1,13 +1,110 @@
----
----
-
 <div class="row">
-	{% if include.asin %}
-
 	<div class="col-md-6">
-		<b>Amazon</b>
-		{{ include.asin }}
+		<h3>E-book</h3>
+		<ul>
+		{% if include.asin %}
+
+		<li><a href="https://www.amazon.com/dp/{{ include.asin }}">Kindle edition</a>
+
+			<ul>
+				<li><a href="https://www.amazon.co.uk/dp/{{ include.asin }}">United Kingdom</a></li>
+				<li><a href="https://www.amazon.de/dp/{{ include.asin }}">Germany</a></li>
+				<li><a href="https://www.amazon.fr/dp/{{ include.asin }}">France</a></li>
+				<li><a href="https://www.amazon.es/dp/{{ include.asin }}">Spain</a></li>
+				<li><a href="https://www.amazon.it/dp/{{ include.asin }}">Italy</a></li>
+				<li><a href="https://www.amazon.nl/dp/{{ include.asin }}">Netherlands</a></li>
+				<li><a href="https://www.amazon.co.jp/dp/{{ include.asin }}">Japan</a></li>
+				<li><a href="https://www.amazon.in/dp/{{ include.asin }}">India</a></li>
+				<li><a href="https://www.amazon.ca/dp/{{ include.asin }}">Canada</a></li>
+				<li><a href="https://www.amazon.com.br/dp/{{ include.asin }}">Brazil</a></li>
+				<li><a href="https://www.amazon.com.mx/dp/{{ include.asin }}">Mexico</a></li>
+				<li><a href="https://www.amazon.com.au/dp/{{ include.asin }}">Australia</a></li>
+			</ul>
+		</li>
+	{% endif %}
+
+	{% if include.barnesNoble %}
+		<li><a href="{{ include.barnesNoble }}">Nook edition</a></li>
+	{% endif %}
+
+	{% if include.itunes %}
+		<li><a href="{{ include.itunes }}">iTunes edition</a></li>
+	{% endif %}
+
+	{% if include.kobo %}
+		<li><a href="{{ include.kobo }}">Kobo edition</a></li>
+	{% endif %}
+
+	{% if include.scribd %}
+		<li><a href="{{ include.kobo }}">Scribd edition</a></li>
+	{% endif %}
+
+	{% if include.tolino %}
+		<li><a href="{{ include.kobo }}">Tolino edition</a></li>
+	{% endif %}
+
+	{% if include.twentyFourSymbols %}
+		<li><a href="{{ include.twentyFourSymbols }}">24symbols edition</a></li>
+	{% endif %}
+
+	{% if include.playster %}
+		<li><a href="{{ include.playster }}">Playster edition</a></li>
+	{% endif %}
+
+	{% if include.overdrive %}
+		<li><a href="{{ include.overdrive }}">Overdrive edition</a></li>
+	{% endif %}
+
+	{% if include.bibliotheca %}
+		<li><a href="{{ include.bibliotheca }}">Bibliotheca edition</a></li>
+	{% endif %}
+
+	{% if include.bakerTaylor %}
+		<li><a href="{{ include.bakerTaylor }}">Baker & Taylor edition</a></li>
+	{% endif %}
+
+	{% if include.universal %}
+		<li><a href="{{ include.universal }}">Universal Book Link</a></li>
+	{% endif %}
+
+	{% if include.luluEpub %}
+		<li><a href="{{ include.luluEpub }}">Lulu edition</a></li>
+	{% endif %}
+		</ul>
 	</div>
+	<div class="col-md-6">
+		<h3>Print</h3>
+
+		<ul>
+	{% if include.amazonPrint %}
+		<li><a href="https://www.amazon.com{{ include.amazonPrint }}">Amazon</a>
+
+			<ul>
+				<li><a href="https://www.amazon.co.uk{{ include.amazonPrint }}">United Kingdom</a></li>
+				<li><a href="https://www.amazon.de{{ include.amazonPrint }}">Germany</a></li>
+				<li><a href="https://www.amazon.fr{{ include.amazonPrint }}">France</a></li>
+				<li><a href="https://www.amazon.es{{ include.amazonPrint }}">Spain</a></li>
+				<li><a href="https://www.amazon.it{{ include.amazonPrint }}">Italy</a></li>
+				<li><a href="https://www.amazon.nl{{ include.amazonPrint }}">Netherlands</a></li>
+				<li><a href="https://www.amazon.co.jp{{ include.amazonPrint }}">Japan</a></li>
+				<li><a href="https://www.amazon.in{{ include.amazonPrint }}">India</a></li>
+				<li><a href="https://www.amazon.ca{{ include.amazonPrint }}">Canada</a></li>
+				<li><a href="https://www.amazon.com.br{{ include.amazonPrint }}">Brazil</a></li>
+				<li><a href="https://www.amazon.com.mx{{ include.amazonPrint }}">Mexico</a></li>
+				<li><a href="https://www.amazon.com.au{{ include.amazonPrint }}">Australia</a></li>
+			</ul>
+		</li>
 
 	{% endif %}
+
+	{% if include.luluPrint %}
+		<li><a href="{{ include.luluPrint }}">Lulu edition</a></li>
+	{% endif %}
+
+	{% if include.braveNewBooks %}
+		<li><a href="{{ include.braveNewBooks }}">Bol.com edition</a></li>
+	{% endif %}
+
+		</ul>
+	</div>
 </div>
