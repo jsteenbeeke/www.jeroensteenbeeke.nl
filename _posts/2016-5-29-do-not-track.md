@@ -3,7 +3,7 @@ layout:    post
 title:     "Do not track"
 date:      2016-5-29 13:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/5/29/do-not-track
+permalink: /blog/2016/5/29/do-not-track.html
 ---
 
 Last week I found something interesting in my 404 log. For those of you unfamiliar with the term, each time someone tries to access a page that does not exist, that person receives the Not Found error, which according to the HTTP protocol is error code 404. Each time this happens, my site records it, and asks me what I want to do about it. Do I want to keep throwing this error (i.e. the page really doesn't exist and never has), to give a more useful error (like 410, which means that the page used to be there but has been removed and will not return) or to redirect to another page (in case the URL changed, which happened when I switched from Wordpress to this custom site).

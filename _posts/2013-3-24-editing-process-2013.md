@@ -3,7 +3,7 @@ layout:    post
 title:     "The editing process, 2013-style"
 date:      2013-3-24 20:40:11 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/3/24/editing-process-2013
+permalink: /blog/2013/3/24/editing-process-2013.html
 ---
 
 Every once in a while, I get e-mails from aspiring writers asking me all sorts of questions. I don't mind these (and please keep sending them in guys!), but every so often I get a question that I think would be interesting to address in a blog post. The question in particular was &quot;When is a book ready to be released?&quot;, and it really got me thinking about my own book release process.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Weirdest airport ever"
 date:      2015-9-24 07:45:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/9/24/weirdest-airport-ever
+permalink: /blog/2015/9/24/weirdest-airport-ever.html
 ---
 
 It's been said that I have an over-active imagination. Normally, this isn't much of a problem. I sometimes have a tendency to take conversations off weird tangents, but I try to keep this to a minimum (depending on the audience). When I'm asleep, though, there are no such holds on my imagination, and that's when the magic happens. Many examples can be found in [The Troll Warriors of Sheepbane](/books/the-troll-warriors-of-sheepbane.html).

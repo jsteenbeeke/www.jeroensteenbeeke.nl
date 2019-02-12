@@ -3,7 +3,7 @@ layout:    post
 title:     "A quarter of a novel"
 date:      2011-2-18 10:02:11 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/2/18/quarter-novel
+permalink: /blog/2011/2/18/quarter-novel.html
 ---
 
 My writing resolutions dictate I have to write 5000 words each week unless I'm outlining a new book. I have managed to surpass this goal for 4 weeks in a row now, as you can see by the progress bars on the right side, despite some serious obstacles such as a bruised rib and a severely strained shoulder (which still hurts like crazy despite the painkillers, and I generally have a high pain threshold).

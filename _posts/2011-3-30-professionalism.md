@@ -3,7 +3,7 @@ layout:    post
 title:     "Professionalism"
 date:      2011-3-30 08:40:35 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/3/30/professionalism
+permalink: /blog/2011/3/30/professionalism.html
 ---
 
 I've been told I handle criticism really well. I firmly believe there is nothing wrong with admitting your mistakes and learning from them. Of course, this can not be said of everyone, as was pointed out on Twitter this morning by [Rebecca J. Fleming](http://twitter.com/#!/DemonicDragon). Rebecca stumbled upon a [review](http://booksandpals.blogspot.com/2011/03/greek-seaman-jacqueline-howett.html) by a guy called BigAl of an independently e-published novel called &quot;The Greek Seaman&quot; written by Jacqueline Howett. The review is quite fair and to the point, and can be summarized as the novel being a compelling read that was severely hindered by grammar and spelling errors. Not exactly the kind of review you want for your novel, but not the end of the world.

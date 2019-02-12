@@ -3,7 +3,7 @@ layout:    post
 title:     "Books that mess up your day"
 date:      2014-11-13 13:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/11/13/books-that-mess-up-your-day
+permalink: /blog/2014/11/13/books-that-mess-up-your-day.html
 ---
 
 ***** SPOILER ALERT - THIS POST SPOILS KEY PLOT POINTS AND/OR ENDINGS OF SEVERAL BOOKS *****
@@ -13,7 +13,7 @@ It is no secret that I love to read. Unless I'm completely exhausted, I always s
 <!--more-->
 Every now and then there are books that I simply dislike, and they're quickly moved to my Did Not Finish pile, but there are books that are much, much worse than this. I'm talking about books that are actually pretty good reads, but they still end up completely messing up your day. Books that rub you completely the wrong way, books that you can't stop thinking about, *and not in a good way*.
 
-[<img alt="http://ecx.images-amazon.com/images/I/516gGpLmGaL._SL160_.jpg" style="height: 125px;" src="http://ecx.images-amazon.com/images/I/516gGpLmGaL._SL160_.jpg" />](http://www.amazon.com/dp/B00BD99JMW/)
+[![http://ecx.images-amazon.com/images/I/516gGpLmGaL._SL160_.jpg](http://ecx.images-amazon.com/images/I/516gGpLmGaL._SL160_.jpg)](http://www.amazon.com/dp/B00BD99JMW/)
 
 Two weeks ago I had such an experience. It was then that I finished reading Allegiant by Veronica Roth, which should have been a thrilling ending to an otherwise great series. Except that it wasn't. Not only does the resolution make absolutely no sense whatsoever, we end up with a freaking dead protagonist, in a completely meaningless death. I could probably rant about this for the rest of this post, but there's a wonderful [1-star review on Amazon that summarizes every issue I had with the book, plus a lot more](http://www.amazon.com/review/RX9IWT6KYAJHR/).
 
@@ -23,7 +23,7 @@ I've been thinking about this ever since, and I really feel my response to the b
 
 And that's when I started to realize what this book had in common with other books I disliked: characters I liked were subjected to horrendous treatment for no good reason, and this isn't the first time this bothered me.
 
-[<img alt="http://ecx.images-amazon.com/images/I/51ss1ClLT4L._SL160_.jpg" style="height: 125px;" src="http://ecx.images-amazon.com/images/I/51ss1ClLT4L._SL160_.jpg" />](http://www.amazon.com/dp/B001FA0PU4/)
+[![http://ecx.images-amazon.com/images/I/51ss1ClLT4L._SL160_.jpg](http://ecx.images-amazon.com/images/I/51ss1ClLT4L._SL160_.jpg)](http://www.amazon.com/dp/B001FA0PU4/)
 
 Did I mention how hard I found it to read this book? Take a number of gentle female side characters. Add an invading army. Have invading army magically *sterilize* said female characters and use them as comfort women? **WHAT THE HELL IS WRONG WITH YOU BRENT WEEKS?**
 

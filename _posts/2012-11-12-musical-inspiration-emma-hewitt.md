@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: Emma Hewitt"
 date:      2012-11-12 12:32:24 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/11/12/musical-inspiration-emma-hewitt
+permalink: /blog/2012/11/12/musical-inspiration-emma-hewitt.html
 ---
 
 Regular readers of this blog will know that music often inspires me. I often listen to Vocal and Epic Trance, as many of the songs I've posted here before clearly indicate. A few days ago, I was browsing YouTube for� trance songs I hadn't heard before, and by chance, I found Calm Down by Cosmic Gate, which featured Australian singer Emma Hewitt:

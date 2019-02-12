@@ -3,7 +3,7 @@ layout:    post
 title:     "New year, new chances"
 date:      2013-1-1 19:14:56 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/1/1/year-chances
+permalink: /blog/2013/1/1/year-chances.html
 ---
 
 Let me start by saying: a happy new year to all of you!

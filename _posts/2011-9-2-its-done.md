@@ -3,7 +3,7 @@ layout:    post
 title:     "It's done"
 date:      2011-9-2 13:11:30 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/9/2/its-done
+permalink: /blog/2011/9/2/its-done.html
 ---
 
 I feel rather strange right now. As of this morning, I have officially completed editing on Revenant Rising. So, basically, the book is done, and I can start working on getting it &quot;out there&quot;. I still need to do a number of things though:

@@ -3,12 +3,12 @@ layout:    post
 title:     "Thoughts on Steelheart"
 date:      2013-9-27 09:22:05 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/9/27/thoughts-steelheart
+permalink: /blog/2013/9/27/thoughts-steelheart.html
 ---
 
 This morning I finished reading Steelheart. Yes, yes, I know a lot of you will grumble at me reading instead of writing during my commute, but I just couldn't stop!
 
-[<img alt="http://ecx.images-amazon.com/images/I/51kWM3L7qwL.jpg" src="http://ecx.images-amazon.com/images/I/51kWM3L7qwL.jpg" />](http://www.amazon.com/Steelheart-ebook/dp/B00ARHAAZ6/)
+[![http://ecx.images-amazon.com/images/I/51kWM3L7qwL.jpg](http://ecx.images-amazon.com/images/I/51kWM3L7qwL.jpg)](http://www.amazon.com/Steelheart-ebook/dp/B00ARHAAZ6/)
 
 <!--more-->
 Regular readers will know I am a fan of Brandon Sanderson's work, so when I heard he was doing a book on supervillains I immediately pre-ordered it. The premise of Steelheart is pretty simple: ten years ago a great burst in the sky granted superpowers to a significant number of people. And instead of using these powers for good, as we often see in the superhero genre, pretty much every &quot;Epic&quot; as they are called is corrupted by their power (interestingly, [Brandon did a guest post on John Scalzi's blog](http://whatever.scalzi.com/2013/09/26/the-big-idea-brandon-sanderson/) explaining the motivations for writing this story).

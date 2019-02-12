@@ -3,7 +3,7 @@ layout:    post
 title:     "Inspiring words"
 date:      2011-11-13 22:45:27 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/11/13/inspiring-words
+permalink: /blog/2011/11/13/inspiring-words.html
 ---
 
 Some questions do not have simply answers. This can get a bit frustrating when you're using Twitter, as your messages are limited to a 140 characters. Fortunately, I have a website that allows me to give longer answers to those questions.�In this particular case, the [cause of this post ](http://twitter.com/#!/judyblackcloud/status/135819345384308736)was a message by [@judyblackcloud](http://twitter.com/#!/judyblackcloud) asking us what words inspire us.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Life update"
 date:      2017-3-28 21:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2017/3/28/life-update
+permalink: /blog/2017/3/28/life-update.html
 ---
 
 Considering that my last blog post was in October, I figured I was due for another update. My life has been rather hectic lately, so I'm barely finding the time to write, let alone keep up with this blog.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Conflict Matrix"
 date:      2014-12-17 09:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/12/17/conflict-matrix
+permalink: /blog/2014/12/17/conflict-matrix.html
 ---
 
 I am currently working on the outline of [my 9th book](/2014/1/22/note-current-projects.html), and I've hit something of a bump in the outlining process. The primary conflict of the story is crystal clear to me, and both the beginning and the ending of the story are pretty solid. But how I'm supposed to get from this beginning to the end, let's just say I haven't quite figured it out.
@@ -21,7 +21,7 @@ https://twitter.com/JSteenbeeke/status/545103284043018240
 
 Each character responds to others in a different way, influenced by their personality, their mutual history (or lack thereof) as well as their own varying goals. There is a lot of potential for conflict, and each such conflict could lead to a new story element. I wanted to make a map of all potential conflicts between major characters, so I decided to write them all down. A matrix of each major character, set against each other major character, with all potential conflicts between them as cells. This looks kind of like this:
 
-![https://www.jeroensteenbeeke.nl/images/conflictmatrix](https://www.jeroensteenbeeke.nl/images/conflictmatrix)
+![https://www.jeroensteenbeeke.nl/images/conflictmatrix.png](https://www.jeroensteenbeeke.nl/images/conflictmatrix.png)
 
 Now, suppose you have 10 significant characters. This would give you a 10x10 matrix, requiring you to write out 90 different potential conflicts (or 100, if you want to add the potential of a character to come into conflict with him/herself). This is quite a bit of work, but should give you plenty of ideas of stuff to introduce into your story.
 

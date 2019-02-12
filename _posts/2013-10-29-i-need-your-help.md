@@ -3,7 +3,7 @@ layout:    post
 title:     "I need your help"
 date:      2013-10-29 09:43:35 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/10/29/i-need-your-help
+permalink: /blog/2013/10/29/i-need-your-help.html
 ---
 
 In my previous blog post I said I was considering making Gift of the Destroyer permanently free. For this to work, I first needed to get out of Amazon's KDP Select program, which meant waiting until the 27th of October (i.e. last Sunday). Now that Gift of the Destroyer is out of KDP Select, I've uploaded [Gift of the Destroyer to Kobo books](http://store.kobobooks.com/en-US/ebook/gift-of-the-destroyer), setting the price to $0.

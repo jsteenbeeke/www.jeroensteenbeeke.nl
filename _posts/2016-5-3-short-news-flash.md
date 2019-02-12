@@ -3,7 +3,7 @@ layout:    post
 title:     "Short news flash"
 date:      2016-5-3 14:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/5/3/short-news-flash
+permalink: /blog/2016/5/3/short-news-flash.html
 ---
 
 A number of things to share:

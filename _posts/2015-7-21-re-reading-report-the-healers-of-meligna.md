@@ -3,7 +3,7 @@ layout:    post
 title:     "Re-reading report: The Healers of Meligna"
 date:      2015-7-21 19:30:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/7/21/re-reading-report-the-healers-of-meligna
+permalink: /blog/2015/7/21/re-reading-report-the-healers-of-meligna.html
 ---
 
 As part of my ongoing efforts of [re-reading all the things](/2015/1/9/time-for-some-re-reading.html), and in part because [K.J. Colt](http://kjcolt.com/) was really eager to hear my input about her latest book, <a href="http://www.amazon.com/dp/B010RUSITC">Forsaken Power</a>, I have recently re-read the entire Healers of Meligna series:

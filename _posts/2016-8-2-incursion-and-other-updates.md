@@ -3,7 +3,7 @@ layout:    post
 title:     "Incursion and other updates"
 date:      2016-8-2 22:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/8/2/incursion-and-other-updates
+permalink: /blog/2016/8/2/incursion-and-other-updates.html
 ---
 
 Yes, I'm still here, it's just been a little hard keeping up with my regular blog schedule, [as I explained earlier](/2016/6/16/offspring-induced-blog-schedule-interruption.html). Here's a small update on the state of things:

@@ -3,7 +3,7 @@ layout:    post
 title:     "Vigilance released, Majesty available for preorder!"
 date:      2016-2-8 15:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/2/8/vigilance-released-majesty-available-for-preorder
+permalink: /blog/2016/2/8/vigilance-released-majesty-available-for-preorder.html
 ---
 
 After the recent release of [Repulsion](/books/repulsion.html), [Benediction](/books/benediction.html), and [Deliverance](/books/deliverance.html), I'm glad to announce that the fourth installment to the Unbound series, [Vigilance](/books/vigilance.html), is now available as well!

@@ -3,7 +3,7 @@ layout:    post
 title:     "Interesting edits"
 date:      2012-3-6 22:00:29 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/3/6/interesting-edits
+permalink: /blog/2012/3/6/interesting-edits.html
 ---
 
 Last week I sent a work-in-progress copy of &quot;the sequel&quot; to a friend who for all intends and purposes does the conceptual editing for my books. As usual, his comments range from impressions about the story as a whole, my writing style, down to minor nitpicks about the story in general. Reading his e-mails is always very motivating, and I put great weight to his advice as it's always spot on. With regard to &quot;the sequel&quot;, he had a couple of suggestions.

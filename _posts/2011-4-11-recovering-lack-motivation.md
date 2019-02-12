@@ -3,7 +3,7 @@ layout:    post
 title:     "Recovering from a lack of motivation"
 date:      2011-4-11 09:19:27 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/4/11/recovering-lack-motivation
+permalink: /blog/2011/4/11/recovering-lack-motivation.html
 ---
 
 For the past few weeks, I haven't written a single word in either my work in progress or in revising Revenant Rising. For those of you keeping score: that means I'm probably about 20K words behind on my writing resolutions, and frankly, I think that's a good thing.

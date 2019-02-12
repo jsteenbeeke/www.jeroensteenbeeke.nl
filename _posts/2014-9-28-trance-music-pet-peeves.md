@@ -3,7 +3,7 @@ layout:    post
 title:     "Trance Music Pet Peeves"
 date:      2014-9-28 22:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/9/28/trance-music-pet-peeves
+permalink: /blog/2014/9/28/trance-music-pet-peeves.html
 ---
 
 A recurring theme on my blog is the Musical Inspiration category, where I tell about music I listen to while writing. More often than not, these posts involve Trance Music, which tend to be pretty long songs. Generally, they feature introductions that last anywhere between 1 and 3 minutes before you get to the good parts.

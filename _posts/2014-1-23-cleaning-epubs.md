@@ -3,7 +3,7 @@ layout:    post
 title:     "Cleaning up the EPUBs"
 date:      2014-1-23 12:12:35 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/1/23/cleaning-epubs
+permalink: /blog/2014/1/23/cleaning-epubs.html
 ---
 
 Back when I started self-publishing my novels, I used two different channels to distribute my ebooks: Kindle Direct Publishing, and Smashwords. Each platform provided a different challenge with regard to distribution, mostly because of my choice of writing software (TeXMaker, a LaTeX editor). KDP requires a zipped HTML file (easiest format for me to convert to), and Smashwords required a Microsoft Word file. The former was easily automated, but the latter proved to be a nightmare. Each time I made a revision, I had to reformat from scratch.

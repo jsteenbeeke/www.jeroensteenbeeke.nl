@@ -3,7 +3,7 @@ layout:    post
 title:     "Writing resolutions 2012"
 date:      2012-1-5 10:16:46 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/1/5/writing-resolutions-2012
+permalink: /blog/2012/1/5/writing-resolutions-2012.html
 ---
 
 As I wrote last year: I love making new year's resolution. They tend to follow the same trend every year (which only goes to show that they're a mixed success on most occasions), so this year I also intend to make a few writing resolutions. The funny thing is, the things I want to do this year aren't that much different from the ones I did last year. Of those I did last year, I succeeded on one account: finish Gift of the Destroyer. The other two were failures. The first was &quot;write 5000 words a week unless outlining&quot;, which only works if your outline is solid, which mine wasn't. The second was &quot;finish a 2nd and possibly third novel&quot;, which I both failed at due to aformentioned shobby outline.

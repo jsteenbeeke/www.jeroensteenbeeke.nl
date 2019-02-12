@@ -3,11 +3,11 @@ layout:    post
 title:     "Defining my genre"
 date:      2011-3-24 12:40:28 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/3/24/defining-genre
+permalink: /blog/2011/3/24/defining-genre.html
 ---
 
 ** This post may contain spoilers **
-I've been wondering for some time how to exactly define the genre I am currently writing in. I generally just say I write fantasy, but fantasy is a rather broad genre. It can include anything from Elves to vampires to spaceships, or in some cases [ie=UTF8&amp;qid=1300952587&amp;sr=1-1]vampires in space](http://www.amazon.com/Space-Vampires-Colin-Wilson/dp/0394400933/ref=sr_1_1?s=books[#amp) (by the way, if anyone wants to use this last sentence to make a book about Elven vampires in space, feel free to). As such, there are many stories that are considered fantasy, but a lot of them probably aren't quite the same genre as my stories, while many others probably are.
+I've been wondering for some time how to exactly define the genre I am currently writing in. I generally just say I write fantasy, but fantasy is a rather broad genre. It can include anything from Elves to vampires to spaceships, or in some cases [ie=UTF8qid=1300952587sr=1-1]vampires in space](http://www.amazon.com/Space-Vampires-Colin-Wilson/dp/0394400933/ref=sr_1_1?s=books[#amp) (by the way, if anyone wants to use this last sentence to make a book about Elven vampires in space, feel free to). As such, there are many stories that are considered fantasy, but a lot of them probably aren't quite the same genre as my stories, while many others probably are.
 
 <!--more-->I run into this problem whenever the topic of my books comes up. The conversation usually follows along the following pattern:
 

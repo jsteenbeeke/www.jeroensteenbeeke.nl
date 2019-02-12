@@ -3,7 +3,7 @@ layout:    post
 title:     "Feature Creep"
 date:      2014-7-7 12:16:42 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/7/7/feature-creep
+permalink: /blog/2014/7/7/feature-creep.html
 ---
 
 I mentioned a while ago that I'm working on[ a new website](https://www.jeroensteenbeeke.nl/project-noodle/), which will replace this one sometime in the future. Part of building this website involves converting all (or at least most) existing blog posts to a new format, complete with auto-migration of old style URLs to new style URLs. As a result of this, I'm rather hesitant to post new material on the current site. Each new post means more data to convert, and trickier URL management. This is the main reason this blog has been so silent lately.

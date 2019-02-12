@@ -3,7 +3,7 @@ layout:    post
 title:     "Unrealized story potential"
 date:      2014-5-6 09:32:21 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/5/6/unrealized-story-potential
+permalink: /blog/2014/5/6/unrealized-story-potential.html
 ---
 
 Years ago I was sitting in the local cinema, waiting for a movie to start, when a teaser for an upcoming Science Fiction movie started playing. First, a Universal Pictures logo, followed by a bunch of doors opening and the voice of [Judi Dench](http://www.imdb.com/name/nm0001132/) narrating:

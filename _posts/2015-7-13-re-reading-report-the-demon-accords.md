@@ -3,7 +3,7 @@ layout:    post
 title:     "Re-reading report: The Demon Accords"
 date:      2015-7-13 17:30:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/7/13/re-reading-report-the-demon-accords
+permalink: /blog/2015/7/13/re-reading-report-the-demon-accords.html
 ---
 
 [Back in January](/2015/1/9/time-for-some-re-reading.html) I said I would spend the start of this year doing some re-reading of old books. This project is still ongoing, and the total number of books re-read now stands at 30, not including new releases in series I've re-read. I still have 10 more books on my list, so I will probably remain busy for the foreseeable future.

@@ -3,13 +3,13 @@ layout:    post
 title:     "Time for some re-reading"
 date:      2015-1-9 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/1/9/time-for-some-re-reading
+permalink: /blog/2015/1/9/time-for-some-re-reading.html
 ---
 
 Last Tuesday I got an e-mail from Amazon that one of my pre-orders had just been delivered. [Firefight](http://www.amazon.com/dp/B00LM9SADW/), the latest novel in Brandon Sanderson's Reckoners series, had just been released. Those of you who have been around here for some time will know I was really enthusiastic about [Steelheart](/2013/9/27/thoughts-steelheart.html), the first book in the series, and that I couldn't wait for the sequel.
 
 <!--more-->
-[<img alt="http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg" src="http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg" />](http://www.amazon.com/dp/B00JNQMKSC/)
+[![http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg](http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg)](http://www.amazon.com/dp/B00JNQMKSC/)
 
 Well, the sequel is here now, so you've probably guessed that I'm going to start reading it right away.
 
@@ -17,7 +17,7 @@ Well, the sequel is here now, so you've probably guessed that I'm going to start
 
 The thing about Steelheart is, it's been well over a year since I've read it. In the meantime, Brandon Sanderson released a short story set between Steelheart and Firefight: 
 
-[<img alt="http://ecx.images-amazon.com/images/I/51QLRTOS-xL.jpg" src="http://ecx.images-amazon.com/images/I/51QLRTOS-xL.jpg" />](http://www.amazon.com/dp/B00GQAMAK6/)
+[![http://ecx.images-amazon.com/images/I/51QLRTOS-xL.jpg](http://ecx.images-amazon.com/images/I/51QLRTOS-xL.jpg)](http://www.amazon.com/dp/B00GQAMAK6/)
 
 Don't get me wrong, I liked this story, but reading it made me realize just how much I'd forgotten about Steelheart. Character names, plot points, locations; a lot of them sounded unfamiliar. I've had this problem a lot recently (with, among others, [Bound, by M.R. Forbes](http://www.amazon.com/dp/B00I9T883K/) and [The Broken Eye by Brent Weeks](http://www.amazon.com/dp/B00GFHG33A/)), and I think it's a consequence of the sheer volume of books I read.
 

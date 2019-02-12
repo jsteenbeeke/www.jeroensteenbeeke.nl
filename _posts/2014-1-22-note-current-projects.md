@@ -3,7 +3,7 @@ layout:    post
 title:     "A note on current projects"
 date:      2014-1-22 12:03:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/1/22/note-current-projects
+permalink: /blog/2014/1/22/note-current-projects.html
 ---
 
 I often refer to books by number on Twitter, and yesterday I realized this might be a bit confusing for people. This post is meant to clarify the numbering on stuff I'm working on. I'll update this post as I continue writing new stuff. Basically, the books are numbered in the order in which I finished (or intend to finish) writing them.

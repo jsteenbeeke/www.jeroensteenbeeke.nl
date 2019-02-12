@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: Video Games"
 date:      2013-11-29 20:32:35 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/11/29/musical-inspiration-video-games
+permalink: /blog/2013/11/29/musical-inspiration-video-games.html
 ---
 
 Regular readers know that I often find inspiration for my stories in music. In most cases, this is either Trance music, or Celtic folk music, with the occasional Emma Hewitt song thrown into the mix. But another &quot;genre&quot; I listen to when writing is video game music (and, considering the diversity, the word genre is in quotes).

@@ -3,7 +3,7 @@ layout:    post
 title:     "Monday morning bicycle ride music"
 date:      2016-7-18 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/7/18/monday-morning-bicycle-ride-music
+permalink: /blog/2016/7/18/monday-morning-bicycle-ride-music.html
 ---
 
 With all the [fun](/2016/7/17/why-not-to-mail-5000-people-out-of-the-blue.html) happening [with my mailing list](/2016/7/15/a-case-of-subscriber-limits.html) lately, it's good to be able to take my mind off things. Today is the first day back on the day job after the [birth of my son](/2016/6/16/offspring-induced-blog-schedule-interruption.html), and seeing as the weather was quite beautiful, I decided to go to work by bicycle.

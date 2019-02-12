@@ -3,11 +3,11 @@ layout:    post
 title:     "The other kind of headhunters"
 date:      2014-2-17 12:07:47 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/17/kind-headhunters
+permalink: /blog/2014/2/17/kind-headhunters.html
 ---
 
 I'm not talking about these kind of [headhunters](http://en.wikipedia.org/wiki/Headhunting):
-[<img alt="https://www.jeroensteenbeeke.nl/images/c02cc14e7d3b1d607c625e6145fca3beadee9ad8eca85880368a2dfa389d086d" src="https://www.jeroensteenbeeke.nl/images/c02cc14e7d3b1d607c625e6145fca3beadee9ad8eca85880368a2dfa389d086d" />](http://en.wikipedia.org/wiki/File:Chromesun_mississippian_priest_digital_painting.jpg)(image courtesy of Herb Roe, taken from Wikipedia, licensed� [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/))
+[![https://www.jeroensteenbeeke.nl/images/c02cc14e7d3b1d607c625e6145fca3beadee9ad8eca85880368a2dfa389d086d.jpg](https://www.jeroensteenbeeke.nl/images/c02cc14e7d3b1d607c625e6145fca3beadee9ad8eca85880368a2dfa389d086d.jpg)](http://en.wikipedia.org/wiki/File:Chromesun_mississippian_priest_digital_painting.jpg)(image courtesy of Herb Roe, taken from Wikipedia, licensed� [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/))
 
 <!--more-->No, the kind of headhunter I'm talking about is a [recruiter](http://en.wikipedia.org/wiki/Recruiter), someone who works for an acquisition firm, trying to get people to switch jobs so they can cash in a &quot;finder's fee&quot;. More specifically, I'm talking about the kind of headhunter that spends his or her day going through LinkedIn profiles and sending contact invites to strangers (I think the official term is &quot;Social Media Recruiter&quot;, but I prefer &quot;LinkedIn Troll&quot;).
 

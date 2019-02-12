@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: Celtic Music"
 date:      2014-11-17 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/11/17/musical-inspiration-celtic-music
+permalink: /blog/2014/11/17/musical-inspiration-celtic-music.html
 ---
 
 In ony of my previous musical inspiration posts I mentioned that I often listen to Celtic Music while writing fantasy. To my own surprise, I've never done a spotlight on this before (at least, I can't remember it, nor can I find a musical post that mentions such music).

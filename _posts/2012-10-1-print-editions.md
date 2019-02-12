@@ -3,7 +3,7 @@ layout:    post
 title:     "Print editions once again available"
 date:      2012-10-1 15:57:18 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/10/1/print-editions
+permalink: /blog/2012/10/1/print-editions.html
 ---
 
 I've just received the sample copies of Gift of the Destroyer and The Raven's Endgame, and they're looking good! Get your own copy at Lulu:

@@ -3,7 +3,7 @@ layout:    post
 title:     "Relaxation therapy"
 date:      2015-2-2 12:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/2/2/relaxation-therapy
+permalink: /blog/2015/2/2/relaxation-therapy.html
 ---
 
 Last week, after spending over a month in outline hell, I finally started writing my 9th book, the 5th and final part of series of Young Adult urban fantasy novellas. It's something I've been looking forward to for some time, as I'm starting to get eager to finish these books for publication (a process that will take many months), after which I can move on to new projects.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Damn you Newton!"
 date:      2014-5-23 09:59:09 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/5/23/damn-newton
+permalink: /blog/2014/5/23/damn-newton.html
 ---
 
 This has been bugging me for days.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Head-hopping"
 date:      2012-11-5 12:45:45 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/11/5/head-hopping
+permalink: /blog/2012/11/5/head-hopping.html
 ---
 
 I am currently reading a novel by a fellow indie fantasy writer, who shall remain nameless. I was reading this book during my commute after my netbook ran out of power (should have remembered to charge it last night). The story is pretty good so far, but one thing in particular is driving my **bat-shit insane**(more than usual, I mean): the author is constantly head-hopping.

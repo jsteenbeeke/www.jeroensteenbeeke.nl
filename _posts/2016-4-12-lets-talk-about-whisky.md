@@ -3,7 +3,7 @@ layout:    post
 title:     "Let's talk about whisky"
 date:      2016-4-12 22:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/12/lets-talk-about-whisky
+permalink: /blog/2016/4/12/lets-talk-about-whisky.html
 ---
 
 **People not of legal drinking age, please ignore this post**

@@ -3,7 +3,7 @@ layout:    post
 title:     "Project Noodle"
 date:      2014-3-17 09:12:35 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/3/17/project-noodle
+permalink: /blog/2014/3/17/project-noodle.html
 ---
 
 My blog got blacklisted by Google a little over a week ago, as a result of a malware infection. With each page requested, two pieces of Javascript were inserted that were doing &quot;bad stuff&quot; in the background - downloading malicious software. I managed to clean out the infection, removed the plugin that gave them the vulnerability, and I patched up a few holes in the process.

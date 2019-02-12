@@ -3,7 +3,7 @@ layout:    post
 title:     "Recurring dream"
 date:      2012-7-31 08:46:27 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/7/31/recurring-dream
+permalink: /blog/2012/7/31/recurring-dream.html
 ---
 
 As those of you who follow my @[JeroenFM](https://twitter.com/JeroenFM) twitter stream know, I have very strange dreams sometimes. I even [post them on this blog sometimes](https://www.jeroensteenbeeke.nl/vampire-dream/). Most of my dreams range from strange to bizarre. Most of those dreams are isolated. Last night, I had a relatively normal dream. But unlike most dreams, this was a recurring dream.
@@ -17,7 +17,7 @@ The funny thing is: I already have my diploma. I graduated 4 years ago. There is
 
 So in reality: I did have to pass one course before I could graduate, and I did get my diploma later than I was supposed to. Of course, it was nothing like the situation in my dream. The funny thing about this dream is that many people have it. A lot of people dream they're still in school, and get in trouble with deadlines. Even XKCD covered it:
 
-[<img alt="http://imgs.xkcd.com/comics/students.png" src="http://imgs.xkcd.com/comics/students.png" />](http://xkcd.com/557/)
+[![http://imgs.xkcd.com/comics/students.png](http://imgs.xkcd.com/comics/students.png)](http://xkcd.com/557/)
 
 I'm sure that people good at explaining dreams can make sense of this. While you're at it, please explain the following recurring dreams I also have:
 * Zombie apocalypse

@@ -3,7 +3,7 @@ layout:    post
 title:     "What to write?"
 date:      2011-1-12 08:52:33 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/1/12/what-to-write
+permalink: /blog/2011/1/12/what-to-write.html
 ---
 
 Last monday I blogged about the [premise of my current work in progress](https://www.jeroensteenbeeke.nl/2011/01/10/novel-premise/), and earlier I blogged [why I would be working on that story](https://www.jeroensteenbeeke.nl/2010/12/07/my-next-writing-project/) rather than a sequel for Revenant Rising. There's no arguing the logic of working on my currently unnamed project - should I not be able to find an interesting party for Revenant Rising, there's no way I'm going to find one for it's sequel. And seeing as Revenant Rising is the first full novel I've ever written, I know the chances of it being accepted by an agent and a publisher are lower than they would be for, say, the fifth novel I write.

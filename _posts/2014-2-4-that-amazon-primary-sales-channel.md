@@ -3,7 +3,7 @@ layout:    post
 title:     "And just like that, Amazon isn't my primary sales channel"
 date:      2014-2-4 13:57:33 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/4/that-amazon-primary-sales-channel
+permalink: /blog/2014/2/4/that-amazon-primary-sales-channel.html
 ---
 
 It's a bit of a bad habit of mine to check my sales stats multiple times each day. This is normally limited to Amazon, since it is easiest to load on my cell phone. While checking sales that often doesn't make my books sell faster, each new sale or download makes me smile (whereas not seeing any changes has no noticeable effect).

@@ -3,7 +3,7 @@ layout:    post
 title:     "More progress math"
 date:      2013-1-30 14:54:02 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/1/30/progress-math
+permalink: /blog/2013/1/30/progress-math.html
 ---
 
 Yesterday I blogged about the amount of progress I made in the past few weeks, and what the consequences were for finishing my draft. I estimated that to finish the first draft by the end of April, I needed to write 0.63 to 1% each day - double the output of what I've been doing for the past few weeks. Yesterday, my progress counter was at 38%. As of this morning, it is at 40%, quite a massive increase from the 0.3% I was doing the days before.

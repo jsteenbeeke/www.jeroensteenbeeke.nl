@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: Armada Music"
 date:      2013-4-29 22:57:58 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/4/29/musical-inspiration-armada-music
+permalink: /blog/2013/4/29/musical-inspiration-armada-music.html
 ---
 
 Those of you who have been following my Musical Inspiration posts know I have turned into a bit of an Emma Hewitt fanboy over the past few months. I can't help it, many of her songs help inspire me while writing.

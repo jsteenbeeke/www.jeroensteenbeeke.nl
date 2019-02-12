@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: Adrian von Ziegler"
 date:      2015-7-16 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/7/16/musical-inspiration-adrian-von-ziegler
+permalink: /blog/2015/7/16/musical-inspiration-adrian-von-ziegler.html
 ---
 
 A few weeks ago YouTube auto-suggested a channel I might like, namely [Adrian von Ziegler](https://www.youtube.com/channel/UCSeJA6az0GrNM4_-pl3HQSQ). In part due to the images, I checked it out, and was pleasantly surprised: lots and lots of Celtic-themed instrumental music that would go really well with writing fantasy. 

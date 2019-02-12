@@ -3,7 +3,7 @@ layout:    post
 title:     "The Raven's Endgame now available"
 date:      2012-9-20 17:12:16 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/9/20/ravens-endgame
+permalink: /blog/2012/9/20/ravens-endgame.html
 ---
 
 Last Monday, after several months of editing and refining the work, I have released my second novel: the Raven's Endgame. The Raven's Endgame takes place approximately 35 years after the events of Gift of the Destroyer

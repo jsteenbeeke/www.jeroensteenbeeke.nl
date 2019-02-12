@@ -3,7 +3,7 @@ layout:    post
 title:     "Re-reading report: Mistborn"
 date:      2015-9-7 09:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/9/7/re-reading-report-mistborn
+permalink: /blog/2015/9/7/re-reading-report-mistborn.html
 ---
 
 Back in 2007, some time after the sad news that Robert Jordan had passed away, it was announced that fantasy writer [Brandon Sanderson would be working to finish his epic Wheel of Time series](http://brandonsanderson.com/brandon-to-finish-wheel-of-time/). I remember reading about this on Slashdot (a site I frequent much less frequently these days), and thinking two things:

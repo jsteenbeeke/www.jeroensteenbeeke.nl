@@ -3,7 +3,7 @@ layout:    post
 title:     "Progress report"
 date:      2011-12-13 09:56:02 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/12/13/progress-report
+permalink: /blog/2011/12/13/progress-report.html
 ---
 
 I've been working on the sequel for Gift of the Destroyer for a while now, but I don't feel like I'm making much progress. Currently, I am working on the 6th chapter (out of 32) and have written about 15K words (out of a ~90K goal). On the other hand, the first draft for Gift of the Destroyer took me a year and a half to write, and was about the same size. Gift of the Destroyer is 90K words, and was written in 18 months, giving an average speed of 5K words per *month.*Considering the fact that I can easily do this amount of work in a *week*�if I put my mind to it, I'm certain the sequel can be done faster.

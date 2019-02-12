@@ -3,7 +3,7 @@ layout:    post
 title:     "Fantasy fairs and such"
 date:      2015-9-25 10:30:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/9/25/fantasy-fairs-and-such
+permalink: /blog/2015/9/25/fantasy-fairs-and-such.html
 ---
 
 Last weekend I attended Elfia, which is a fantasy fair that's held twice a year (at [Haarzuilens](http://www.kasteeldehaar.nl/) early in the year, and at [Arcen](http://www.kasteeltuinen.nl) later in the year). This was my first time visiting the Arcen edition, which is generally a bit smaller than the early edition. Getting into the festival was business as usual: we already had tickets, so we could skip the ticket queue and walk right in.

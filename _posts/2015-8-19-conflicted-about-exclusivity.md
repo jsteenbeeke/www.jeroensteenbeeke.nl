@@ -3,7 +3,7 @@ layout:    post
 title:     "Conflicted about exclusivity"
 date:      2015-8-19 08:30:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/8/19/conflicted-about-exclusivity
+permalink: /blog/2015/8/19/conflicted-about-exclusivity.html
 ---
 
 Anyone who has ever viewed the Books page on this site knows that I have 4 books currently available from multiple channels, both in print and as e-books. I rarely sell print copies, but my e-books do get a moderate number of sales. I haven't checked my most recent statistics, but historically about 60% of my sales come from Amazon, 30% come from Barnes and Noble, and the remaining 10% from other sources (primarily iTunes though).

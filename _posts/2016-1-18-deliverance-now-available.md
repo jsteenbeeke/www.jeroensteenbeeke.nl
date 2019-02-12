@@ -3,7 +3,7 @@ layout:    post
 title:     "Deliverance now available"
 date:      2016-1-18 20:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/1/18/deliverance-now-available
+permalink: /blog/2016/1/18/deliverance-now-available.html
 ---
 
 After the recent release of [Repulsion](/books/repulsion.html) and [Benediction](/books/benediction.html), I am glad to announce that the third installment in the Unbound series, [Deliverance](/books/deliverance.html), is now available for purchase!

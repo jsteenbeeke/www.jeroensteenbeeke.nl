@@ -3,13 +3,13 @@ layout:    post
 title:     "Guest post by Tracy Falbe - A profile of Cruce Chenomet"
 date:      2012-11-27 08:13:20 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/11/27/guest-post-tracy-falbe-profile-cruce-chenomet
+permalink: /blog/2012/11/27/guest-post-tracy-falbe-profile-cruce-chenomet.html
 ---
 
 Regular readers of this blog will know I often participate in the Writer's Cafe on the Kindleboards, primarily to get in touch with other authors. On this forum, I encountered fellow fantasy writer Tracy Falbe, who was looking for people to participate in her blog tour. I of course happily obliged. In her blog tour, she presents excerpts from her work, as well as character profiles. I am currently reading her novel Rys Rising, which I can definitely recommend. So, without further ado, here's Tracy:
 
 <!--more-->
-[<img alt="https://www.jeroensteenbeeke.nl/images/81e861b2901072d8d919556cdac17164de58129ad8feb4aaa5a3af49f6adaf2b" src="https://www.jeroensteenbeeke.nl/images/81e861b2901072d8d919556cdac17164de58129ad8feb4aaa5a3af49f6adaf2b" />](https://www.jeroensteenbeeke.nl/images/81e861b2901072d8d919556cdac17164de58129ad8feb4aaa5a3af49f6adaf2b)
+[![https://www.jeroensteenbeeke.nl/images/81e861b2901072d8d919556cdac17164de58129ad8feb4aaa5a3af49f6adaf2b.jpg](https://www.jeroensteenbeeke.nl/images/81e861b2901072d8d919556cdac17164de58129ad8feb4aaa5a3af49f6adaf2b.jpg)](https://www.jeroensteenbeeke.nl/images/81e861b2901072d8d919556cdac17164de58129ad8feb4aaa5a3af49f6adaf2b)
 
 Todays stop on the Feel Real Fantasy blog tour celebrating the completion of the Rys Rising series by Tracy Falbe introduces readers to Cruce Chenomet, a brave man who defends his people.
 
@@ -33,7 +33,7 @@ In Cruce I explored the brash enthusiasm and ambitions of youth and how they gra
 
 **From Savage Storm: Rys Rising Book II**
 
-[<img alt="https://www.jeroensteenbeeke.nl/images/cfc7b2a8c234ef7bb070c11b6af1035921614bf427279b70bbe1d1d081379a50" src="https://www.jeroensteenbeeke.nl/images/cfc7b2a8c234ef7bb070c11b6af1035921614bf427279b70bbe1d1d081379a50" />](https://www.jeroensteenbeeke.nl/images/cfc7b2a8c234ef7bb070c11b6af1035921614bf427279b70bbe1d1d081379a50)
+[![https://www.jeroensteenbeeke.nl/images/cfc7b2a8c234ef7bb070c11b6af1035921614bf427279b70bbe1d1d081379a50.jpg](https://www.jeroensteenbeeke.nl/images/cfc7b2a8c234ef7bb070c11b6af1035921614bf427279b70bbe1d1d081379a50.jpg)](https://www.jeroensteenbeeke.nl/images/cfc7b2a8c234ef7bb070c11b6af1035921614bf427279b70bbe1d1d081379a50)
 
 The men plodded across the dark land in silence. Awful images replayed in their minds and crushing emotions churned in their chests. At length, Vrostan found his voice. Thank you, Chenomet, he said although words could scarcely convey his gratitude.
 
@@ -83,7 +83,7 @@ Melting with empathy, Carver put a strong meaty hand on Cruces cheek. Getting 
 
 The Militia Master shook his head. No, lad, not all the way better. No.
 
-[<img alt="https://www.jeroensteenbeeke.nl/images/c59c9994506e8b68bc6413a6261c42c560a2f93cd3ff379fbe8b423742be6875" src="https://www.jeroensteenbeeke.nl/images/c59c9994506e8b68bc6413a6261c42c560a2f93cd3ff379fbe8b423742be6875" />](https://www.jeroensteenbeeke.nl/images/c59c9994506e8b68bc6413a6261c42c560a2f93cd3ff379fbe8b423742be6875)
+[![https://www.jeroensteenbeeke.nl/images/c59c9994506e8b68bc6413a6261c42c560a2f93cd3ff379fbe8b423742be6875.jpg](https://www.jeroensteenbeeke.nl/images/c59c9994506e8b68bc6413a6261c42c560a2f93cd3ff379fbe8b423742be6875.jpg)](https://www.jeroensteenbeeke.nl/images/c59c9994506e8b68bc6413a6261c42c560a2f93cd3ff379fbe8b423742be6875)
 
 Tracy Falbe invites you to give her characters a chance to feel real to you. The Rys Rising fantasy series is driven by magic, passion, bravery, ambition, conquest, and defeat. Rys Rising: Book I is a free ebook and hopefully your gateway to an epic reading experience.
 

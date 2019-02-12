@@ -3,7 +3,7 @@ layout:    post
 title:     "Still alive and still writing"
 date:      2015-7-24 18:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/7/24/still-alive-and-still-writing
+permalink: /blog/2015/7/24/still-alive-and-still-writing.html
 ---
 
 A few weeks ago I added a page view counter to my various blog posts, so I could see which of them were getting the most views. I figured my more recent posts would be the ones getting all the traffic, but apparently that's not entirely the case (though my post about the Healers of Meligna is in 2nd place). There seems to be quite some interest for topics I wrote years ago:

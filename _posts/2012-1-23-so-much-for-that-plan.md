@@ -3,7 +3,7 @@ layout:    post
 title:     "So much for that plan"
 date:      2012-1-23 10:26:07 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/1/23/so-much-for-that-plan
+permalink: /blog/2012/1/23/so-much-for-that-plan.html
 ---
 
 A few weeks ago I posted my writing resolutions for 2012, which included the plan to write 2 chapters a week. While I've been working on my second novel quite zealously, I haven't managed to make my chapter quota even once. I'm not quite ready to abandon this goal yet, but it's probably a good idea to consider why I'm not managing to write 2 chapters a week.

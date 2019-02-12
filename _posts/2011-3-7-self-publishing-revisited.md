@@ -3,7 +3,7 @@ layout:    post
 title:     "Self-publishing revisited"
 date:      2011-3-7 21:28:29 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/3/7/self-publishing-revisited
+permalink: /blog/2011/3/7/self-publishing-revisited.html
 ---
 
 A while ago I wrote about [my thoughts regarding self-publishing](https://www.jeroensteenbeeke.nl/thoughts-self-publishing/). In that post I expressed various reasons to consider self-publishing, and how I thought about them. The conclusion of the article was that I might consider self-publishing if my querying would not go well. I've had well over a month to give it some further thought, and the more I think about, the more I think that self-publishing would be ideal for me, and that the best choice I can make is to avoid the whole traditional publishing approach altogether.

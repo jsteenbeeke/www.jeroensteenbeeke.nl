@@ -3,7 +3,7 @@ layout:    post
 title:     "So much for that hobby"
 date:      2014-5-18 22:34:15 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/5/18/another-hobby-bites-the-dust
+permalink: /blog/2014/5/18/another-hobby-bites-the-dust.html
 ---
 
 Last Friday, I received a newsletter from one of the many sites I use to buy Warhammer 40K supplies, in which they discussed the imminent release of a new edition of Warhammer 40K, and how that would impact orders from their site.

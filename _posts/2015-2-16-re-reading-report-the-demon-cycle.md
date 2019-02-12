@@ -3,7 +3,7 @@ layout:    post
 title:     "Re-reading report: The Demon Cycle"
 date:      2015-2-16 11:25:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/2/16/re-reading-report-the-demon-cycle
+permalink: /blog/2015/2/16/re-reading-report-the-demon-cycle.html
 ---
 
 Last Wednesday I finished my re-read of [Peter V. Brett's Demon Cycle](http://en.wikipedia.org/wiki/Peter_V._Brett#Demon_Cycle) series. I decided to reread this series due to the upcoming release of the fourth book: the Skull Throne, and because I have a tendency to forget crucial story details when continuing series I read a while ago.

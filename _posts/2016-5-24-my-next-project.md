@@ -3,7 +3,7 @@ layout:    post
 title:     "My next project"
 date:      2016-5-24 13:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/5/24/my-next-project
+permalink: /blog/2016/5/24/my-next-project.html
 ---
 
 Last week I finished the first stage of editing for the [6th installment in the Unbound series](/2016/3/24/incursion-and-the-road-ahead.html). The editing phase of this book has taken a bit longer than usual, but I'll be sending it to my alpha readers sometime this week. This means I'll now have time to start working on my next project, which is...

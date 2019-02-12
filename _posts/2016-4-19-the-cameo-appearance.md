@@ -3,7 +3,7 @@ layout:    post
 title:     "The cameo appearance"
 date:      2016-4-19 21:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/19/the-cameo-appearance
+permalink: /blog/2016/4/19/the-cameo-appearance.html
 ---
 
 All of my books include a disclaimer that similarities to real persons are coincidental. This is pretty much a no-brainer for the Hunter in the Dark series as it takes place in a fictional universe, and mostly unnecessary for the [Troll Warriors of Sheepbane](/books/the-troll-warriors-of-sheepbane.html), because whatever happens in my dreams is too weird to have any bearing on real life, even if my subconscious somehow keeps involving [Kevin Sorbo](http://www.imdb.com/name/nm0001757/).

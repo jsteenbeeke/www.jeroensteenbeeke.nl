@@ -3,7 +3,7 @@ layout:    post
 title:     "Writing Plans after Hunter's Chosen"
 date:      2013-4-23 12:02:15 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/4/23/writing-plans-hunters-chosen
+permalink: /blog/2013/4/23/writing-plans-hunters-chosen.html
 ---
 
 A while ago I explained [my editing plan](https://www.jeroensteenbeeke.nl/editing-process-2013/) for Hunter's Chosen, which involves multiple re-reads and editing passes. I am still at step 1 of this process (backward re-read done, forward re-read at 16%), but I'm confident that I'll finish both this step and step 2 (automatic checker) within reasonable time, which means the book will be sent to alpha readers soon. I have no idea how long they will take to review the book. They might be done in a week, but it might also be a month before I get any feedback. Either way, I'm guessing Hunter's Chosen will be released in July.
@@ -12,7 +12,7 @@ A while ago I explained [my editing plan](https://www.jeroensteenbeeke.nl/editin
 That said, once Hunter's Chosen is out, this will mean the Hunter in the Dark trilogy is complete, and I can start writing something else. I already have a number of ideas in this regard:
 
 **The Troll Warriors of Sheepbane**I've had a cover for this project for ages, thanks to Kindleboards member and fellow writer Nathalie Hamidi. This book is essentially a short anthology of bizarre dreams I've had over the years - an autobiographical journey into madness, so to say.
-[<img alt="https://www.jeroensteenbeeke.nl/images/97be4123d9d552e31eff423c4e56346725cd248afb16daf5f8f722b077b30b45" src="https://www.jeroensteenbeeke.nl/images/97be4123d9d552e31eff423c4e56346725cd248afb16daf5f8f722b077b30b45" />](https://www.jeroensteenbeeke.nl/images/97be4123d9d552e31eff423c4e56346725cd248afb16daf5f8f722b077b30b45)
+[![https://www.jeroensteenbeeke.nl/images/97be4123d9d552e31eff423c4e56346725cd248afb16daf5f8f722b077b30b45.jpg](https://www.jeroensteenbeeke.nl/images/97be4123d9d552e31eff423c4e56346725cd248afb16daf5f8f722b077b30b45.jpg)](https://www.jeroensteenbeeke.nl/images/97be4123d9d552e31eff423c4e56346725cd248afb16daf5f8f722b077b30b45)
 The biggest problem with this anthology is to actually write it. Explaining my dreams is actually quite a bit harder than writing a scene in a fantasy book.
 **And then what?**Once Troll Warriors is complete, I will start writing my next fantasy series. Which is exactly the problem: I have two ideas I'd really like to work on, but they are radically different.
 

@@ -3,7 +3,7 @@ layout:    post
 title:     "A bunch of books I've recently finished"
 date:      2013-4-3 09:40:40 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/4/3/bunch-books-finished
+permalink: /blog/2013/4/3/bunch-books-finished.html
 ---
 
 ****This post contains spoilers****

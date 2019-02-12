@@ -3,7 +3,7 @@ layout:    post
 title:     "Novel: Revenant Rising"
 date:      2010-11-1 15:16:10 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/11/1/novel-revenant-rising
+permalink: /blog/2010/11/1/novel-revenant-rising.html
 ---
 
 **In a world where childbirths are becoming increasingly rare, Lianna, a  young pregnant woman becomes entangled in a stranger's quest to prevent  an apocalypse he has already lived through. Pursued by a man who feeds on the life of others, the only way to reach their goal is through a land none have survived for a thousand years.**

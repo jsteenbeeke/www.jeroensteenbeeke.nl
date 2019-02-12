@@ -3,7 +3,7 @@ layout:    post
 title:     "It appears I broke my contact form"
 date:      2016-4-28 22:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/28/it-appears-i-broke-my-contact-form
+permalink: /blog/2016/4/28/it-appears-i-broke-my-contact-form.html
 ---
 
 A few months ago MailChimp and Mandrill decided it would be a good idea to extort Mandrill's customers by merging Mandrill back into the parent company, and requiring Mandrill customers to get a paid MailChimp account.

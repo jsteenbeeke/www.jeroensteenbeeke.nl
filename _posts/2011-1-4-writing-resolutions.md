@@ -3,7 +3,7 @@ layout:    post
 title:     "Writing resolutions"
 date:      2011-1-4 09:33:35 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/1/4/writing-resolutions
+permalink: /blog/2011/1/4/writing-resolutions.html
 ---
 
 I love to make new year's resolutions. I never start a year without at least some idea of things I should do better. Actually living by them has proven to be a mixed success over the past few years, though I honestly put an effort into them each time, and I have succeeded on various occasions.

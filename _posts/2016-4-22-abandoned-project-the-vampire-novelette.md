@@ -3,7 +3,7 @@ layout:    post
 title:     "Abandoned project: the vampire novelette"
 date:      2016-4-22 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/22/abandoned-project-the-vampire-novelette
+permalink: /blog/2016/4/22/abandoned-project-the-vampire-novelette.html
 ---
 
 A while ago, I think it was between writing [Benediction](/books/benediction.html) and [Deliverance](/books/deliverance.html), I was working on a side project that involved vampires. I think it was due to disappointment with recent vampire fiction that I started this project, and the premise was something along the lines of what would happen if you combine a teenager's first vacation without parents with a group of vampires?

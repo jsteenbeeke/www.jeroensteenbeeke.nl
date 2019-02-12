@@ -3,7 +3,7 @@ layout:    post
 title:     "Obsessing over reviews"
 date:      2014-2-27 10:00:19 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/27/obsessing-reviews
+permalink: /blog/2014/2/27/obsessing-reviews.html
 ---
 
 I've been getting a number of 3-star reviews for Gift of the Destroyer lately. Essentially, these reviews amount to &quot;it's a good story, but I have issues with &lt;insert valid criticism here&gt;&quot; or &quot;excellent story, but&quot;. Some of these reviews hit a bit of a nerve, the first was followed by some Twitter venting:

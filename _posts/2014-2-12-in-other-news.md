@@ -3,7 +3,7 @@ layout:    post
 title:     "In other news"
 date:      2014-2-12 10:00:15 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/12/in-other-news
+permalink: /blog/2014/2/12/in-other-news.html
 ---
 
 Just a few minor bits of news:

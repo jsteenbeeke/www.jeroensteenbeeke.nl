@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: February 2014"
 date:      2014-2-14 14:48:35 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/14/musical-inspiration-february-2014
+permalink: /blog/2014/2/14/musical-inspiration-february-2014.html
 ---
 
 A new bunch of songs to help me get &quot;in the zone&quot; writing-wise:

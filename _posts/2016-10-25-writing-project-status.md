@@ -3,7 +3,7 @@ layout:    post
 title:     "Writing projects status"
 date:      2016-10-25 23:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/10/25/writing-project-status
+permalink: /blog/2016/10/25/writing-project-status.html
 ---
 
 The last book I released was [Majesty](/books/majesty.html), and things have been rather quiet since [my last status update](/2016/8/2/incursion-and-other-updates.html). To tell you the truth, most of the information in that last update is still current.

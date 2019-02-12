@@ -3,7 +3,7 @@ layout:    post
 title:     "Classifying levels of power"
 date:      2016-4-6 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/6/levels-of-power
+permalink: /blog/2016/4/6/levels-of-power.html
 ---
 
 My books feature a whole bunch of characters, creatures and *forces* with special or supernatural abilities. The Hunter in the Dark series has the seven Gifts, a bunch of ancient relics that enhance people in various ways, and entire civilizations that are simply badass because of their natural habitat (the Wanderers). The Unbound series has the Sleepers and Unbound, with mostly similar powers, and a whole bunch of other supernatural creatures with varying abilities, such as Thanatos and Paul.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Working backwards"
 date:      2016-5-20 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/5/20/working-backwards
+permalink: /blog/2016/5/20/working-backwards.html
 ---
 
 Every writer wants to avoid continuity errors, or at least I hope that is the case. I definitely do, and it's one of the reasons I have a whole bunch of people proofread my books, preferable people who have read earlier parts.

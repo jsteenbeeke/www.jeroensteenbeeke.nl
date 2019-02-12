@@ -3,7 +3,7 @@ layout:    post
 title:     "Obstacles galore"
 date:      2015-2-23 12:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/2/23/obstacles-galore
+permalink: /blog/2015/2/23/obstacles-galore.html
 ---
 
 For the past week or so, I feel like I haven't made any progress with [book 9](/2014/1/22/note-current-projects.html). There are several factors at work here, which I'll elaborate on in a moment, but I should probably start with an interesting statement:

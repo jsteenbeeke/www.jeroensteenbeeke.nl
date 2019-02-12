@@ -3,7 +3,7 @@ layout:    post
 title:     "New website is live!"
 date:      2014-11-14 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/11/14/new-website-is-live
+permalink: /blog/2014/11/14/new-website-is-live.html
 ---
 
 Remember when [I mentioned wanting to build my own website back in March](/2014/3/17/project-noodle.html)? Back then, my Wordpress-based site had been hit with a malware infection (due to a vulnerability in my contact form plugin), and I was concerned that my exotic combination of plugins was impossible to keep secure.

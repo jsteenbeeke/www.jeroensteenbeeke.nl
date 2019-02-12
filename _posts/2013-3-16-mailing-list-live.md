@@ -3,7 +3,7 @@ layout:    post
 title:     "Mailing list live"
 date:      2013-3-16 23:22:47 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/3/16/mailing-list-live
+permalink: /blog/2013/3/16/mailing-list-live.html
 ---
 
 In my previous post I mentioned I was going to test a new mailing list system, and I am happy to report the tests have been completed successfully. I will now be sending out promotional e-mails whenever I have something important to share. You can sign up for these e-mails at [promo.jeroensteenbeeke.nl](http://promo.jeroensteenbeeke.nl/). I'll put up a big link somewhere on the site.

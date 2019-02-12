@@ -3,7 +3,7 @@ layout:    post
 title:     "Repurposing this blog"
 date:      2011-7-18 17:30:52 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/7/18/repurposing-blog
+permalink: /blog/2011/7/18/repurposing-blog.html
 ---
 
 Ok, I admit, my spellchecker is throwing a fit over the title of this post, but as a fantasy writer I reserve the right to invent new words. A little creativity never hurts right?

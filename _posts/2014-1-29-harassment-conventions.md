@@ -3,7 +3,7 @@ layout:    post
 title:     "Harassment at conventions"
 date:      2014-1-29 11:20:03 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/1/29/harassment-conventions
+permalink: /blog/2014/1/29/harassment-conventions.html
 ---
 
 I read a number of blogs by fellow authors, both obscure and well-known. One of the more famous blogs I read is [Whatever](http://whatever.scalzi.com/) by Science Fiction writer John Scalzi, who never fails to be insightful on a whole number of issues. It helps, of course, that I agree with him on many issues.

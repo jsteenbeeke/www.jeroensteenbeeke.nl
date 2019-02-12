@@ -3,7 +3,7 @@ layout:    post
 title:     "Gift of the Destroyer, 2nd edition"
 date:      2012-5-2 13:10:23 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/5/2/gift-destroyer-2nd-edition
+permalink: /blog/2012/5/2/gift-destroyer-2nd-edition.html
 ---
 
 In my previous post I mentioned the unexpected e-mail by Gareth, and the consequence of having to work through 21 pages of suggested revisions. It's taken me a while, but I've finally finished the suggested changes. I've already uploaded the revised versions to Lulu and Amazon.

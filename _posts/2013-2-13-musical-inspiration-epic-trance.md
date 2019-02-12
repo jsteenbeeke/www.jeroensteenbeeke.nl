@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: More Epic Trance"
 date:      2013-2-13 21:37:46 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/2/13/musical-inspiration-epic-trance
+permalink: /blog/2013/2/13/musical-inspiration-epic-trance.html
 ---
 
 As my regular readers will know I often listen to music while writing, as it helps me focus as� well as create a specific mood. I listen to a variety of genres to this end, mostly shifting between Epic Trance and Celtic Folk (yes, quite a leap between those two genres).

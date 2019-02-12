@@ -3,7 +3,7 @@ layout:    post
 title:     "Thoughts on Firefight"
 date:      2015-1-16 15:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/1/16/thoughts-on-firefight
+permalink: /blog/2015/1/16/thoughts-on-firefight.html
 ---
 
 This morning I finished reading Brandon Sanderson's latest novel, Firefight, which I mentioned in my previous post. It's the sequel to Steelheart, which was released in 2013, and which is easily in the top 5 of novels I finished in record time, and it was easily one of my favorite books of that year. As such, I was really happy when Amazon sent me an e-mail that my pre-order for its sequel Firefight had been released. Just to be sure I didn't miss anything, I re-read both Steelheart and Mitosis (a short story that takes place between Steelheart and Firefight).
@@ -11,7 +11,7 @@ This morning I finished reading Brandon Sanderson's latest novel, Firefight, whi
 <!--more-->
 This post should be mostly spoiler-free.
 
-[<img alt="http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg" src="http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg" />](http://www.amazon.com/dp/B00JNQMKSC/)
+[![http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg](http://ecx.images-amazon.com/images/I/51yunFGMz4L.jpg)](http://www.amazon.com/dp/B00JNQMKSC/)
 
 Contrary to the record time in which I finished Steelheart, it took me several days to finish reading Firefight. This didn't really have much to do with the book itself, but with my own schedule more than anything else. So, as I said, I finished reading the story this morning.
 

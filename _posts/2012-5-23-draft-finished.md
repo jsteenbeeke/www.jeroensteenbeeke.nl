@@ -3,7 +3,7 @@ layout:    post
 title:     "And another draft finished"
 date:      2012-5-23 07:33:14 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/5/23/draft-finished
+permalink: /blog/2012/5/23/draft-finished.html
 ---
 
 Last Monday at around 22:45 Central European Time I completed the first draft of my second novel after a final one and a half hour writing session. I'm still a bit dazed by all this to be honest, mostly due to the speed at which I finished this draft.

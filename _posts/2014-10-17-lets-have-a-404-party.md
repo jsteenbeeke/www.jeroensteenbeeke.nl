@@ -3,7 +3,7 @@ layout:    post
 title:     "Let's have a 404 party"
 date:      2014-10-17 12:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/10/17/lets-have-a-404-party
+permalink: /blog/2014/10/17/lets-have-a-404-party.html
 ---
 
 One of the more recent additions to this new site is the detection and handling of 404 (file not found) errors. This is done primarily to give me insight in malfunctioning parts of the website, but it also helps search engines and such.

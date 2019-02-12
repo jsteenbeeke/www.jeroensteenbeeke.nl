@@ -3,7 +3,7 @@ layout:    post
 title:     "An interesting thought regarding reviews"
 date:      2016-10-19 16:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/10/19/an-interesting-thought-regarding-reviews
+permalink: /blog/2016/10/19/an-interesting-thought-regarding-reviews.html
 ---
 
 My first blog post since August, and it's not going to be a long one. I've pretty much abandoned my earlier blog schedule, though the reasons for my lack of posts are somewhat varied, but I had some time to spare and really wanted to write down some thoughts I've been having for a few days. Mind you, these ideas are based off things I've read on KBoards, and I'm ashamed to admit that I can't credit the people who've had this idea before me, other than that they're far more active on that forum than I am, and far more successful at selling books. If I ever find the specific posts again, I'll post links here.

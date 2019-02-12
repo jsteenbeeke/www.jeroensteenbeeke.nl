@@ -3,7 +3,7 @@ layout:    post
 title:     "Saxons for everyone!"
 date:      2015-3-18 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/3/18/saxons-for-everyone
+permalink: /blog/2015/3/18/saxons-for-everyone.html
 ---
 
 Today is an election day in the Netherlands, where we get to choose the members of the [States-Provincial](http://en.wikipedia.org/wiki/States-Provincial), which is, simply put, our provincial parliament. They don't really have that much power compared to, say, a state legislature in the United States, but they still get to make quite a few important decisions.

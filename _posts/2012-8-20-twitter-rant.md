@@ -3,7 +3,7 @@ layout:    post
 title:     "Twitter rant"
 date:      2012-8-20 16:20:51 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/8/20/twitter-rant
+permalink: /blog/2012/8/20/twitter-rant.html
 ---
 
 Twitter can be a strange place sometimes. I've been on Twitter with my [@JeroenFM](http://twitter.com/JeroenFM) account for quite a while now, since November 2009. In June last year I created my [@JSteenbeeke](http://twitter.com/JSteenbeeke) account, primarily to stop bothering friends and co-workers with writing-related tweets (and to follow back other writers without clogging up my main timeline). Those that did want to read my writing news simply followed both accounts. Overall, I think my experience with Twitter has been pleasant.

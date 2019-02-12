@@ -3,7 +3,7 @@ layout:    post
 title:     "Release plan for book 2"
 date:      2012-8-13 16:10:46 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/8/13/release-plan-book-2
+permalink: /blog/2012/8/13/release-plan-book-2.html
 ---
 
 A little over two months ago, I finished the first draft of my second novel. This was quite a happy moment for me, as it proved that writing a book was something I could do more than once, even when [forced to start over due to a derailed plot line](https://www.jeroensteenbeeke.nl/31k-word-cut/). I feel my writing has improved since I wrote Gift of the Destroyer, and I hope people will enjoy my second book as much as they enjoyed the first.

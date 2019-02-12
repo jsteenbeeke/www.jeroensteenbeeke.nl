@@ -3,7 +3,7 @@ layout:    post
 title:     "Print on Demand done wrong"
 date:      2013-12-17 11:38:29 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/12/17/print-demand-wrong
+permalink: /blog/2013/12/17/print-demand-wrong.html
 ---
 
 As I'm sure many of you are aware, the paperback versions of my books can be easily found on Amazon and Lulu. Lulu has been my print on demand company of choice for some time, and while they are absolutely horrid at creating hardcovers, their paperbacks are of excellent quality, at a decent price.

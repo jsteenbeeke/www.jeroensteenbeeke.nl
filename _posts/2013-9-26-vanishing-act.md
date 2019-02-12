@@ -3,7 +3,7 @@ layout:    post
 title:     "Vanishing act"
 date:      2013-9-26 09:39:33 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/9/26/vanishing-act
+permalink: /blog/2013/9/26/vanishing-act.html
 ---
 
 I'm sure that many of you will have noticed a distinct lack of blog posts in the past few weeks. In addition to not writing on this blog I also haven't done much work on books either. I have been watching movies for story structure analysis, and doing so has solidified the stories I'm going to write next, but I haven't reached the point of being able to start writing yet.

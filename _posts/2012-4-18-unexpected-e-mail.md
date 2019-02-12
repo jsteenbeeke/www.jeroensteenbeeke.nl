@@ -3,7 +3,7 @@ layout:    post
 title:     "The unexpected e-mail"
 date:      2012-4-18 21:08:56 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/4/18/unexpected-e-mail
+permalink: /blog/2012/4/18/unexpected-e-mail.html
 ---
 
 I'm not quite sure where to begin this post, as my mind's still racing because of the whole situation.� Here's the thing: I am currently going through a 21 page document describing typos, grammatical glitches, and style issues with Gift of the Destroyer. This document was made by a man named Gareth, who contacted me on Twitter yesterday, asking if he could get my e-mail address for a question regarding my book.

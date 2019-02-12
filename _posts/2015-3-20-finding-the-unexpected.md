@@ -3,7 +3,7 @@ layout:    post
 title:     "Finding the unexpected"
 date:      2015-3-20 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/3/20/finding-the-unexpected
+permalink: /blog/2015/3/20/finding-the-unexpected.html
 ---
 
 At the time of this posting there will be a partial solar eclipse visible in Europe, at least in theory. As of right now, there is simply too much mist to see anything, so I won't bother going outside to watch unless things change dramatically. Seeing as I also missed the [Transit of Venus in 2012](http://en.wikipedia.org/wiki/Transit_of_Venus,_2012) for pretty much the same reason, this is a bit of a bummer, but that's what you get for being born in the Netherlands and not moving to a place that has less rain/clouds/mist.

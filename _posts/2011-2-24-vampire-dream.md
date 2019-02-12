@@ -3,7 +3,7 @@ layout:    post
 title:     "The vampire dream"
 date:      2011-2-24 09:42:11 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/2/24/vampire-dream
+permalink: /blog/2011/2/24/vampire-dream.html
 ---
 
 The people who follow me on Twitter know I have strange dreams sometimes, and that I like to share those with others. Last night I dreamed about vampires, but when compared to other dreams, it actually made a whole lot of sense. Seeing as I'm getting a lot of questions about it from my Twitter followers, I thought I'd share some details of this dream.

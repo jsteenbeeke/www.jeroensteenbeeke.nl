@@ -3,7 +3,7 @@ layout:    post
 title:     "What the F did I just watch?"
 date:      2015-8-6 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/8/6/what-the-f-did-i-just-watch
+permalink: /blog/2015/8/6/what-the-f-did-i-just-watch.html
 ---
 
 This post is a bit overdue, as the events in question took place almost two weeks ago, but I haven't gotten around to posting it because of my vacation and getting my upcoming novels ready for my editor.

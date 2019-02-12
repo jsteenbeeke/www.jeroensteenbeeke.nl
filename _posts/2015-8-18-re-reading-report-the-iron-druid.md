@@ -3,7 +3,7 @@ layout:    post
 title:     "Re-reading report: The Iron Druid"
 date:      2015-8-18 13:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/8/18/re-reading-report-the-iron-druid
+permalink: /blog/2015/8/18/re-reading-report-the-iron-druid.html
 ---
 
 Another installment of my [ongoing efforts to re-read a whole bunch of books](/2015/1/9/time-for-some-re-reading.html) I've read earlier. Last week, I finished my re-read of The Iron Druid, an Urban Fantasy series by [Kevin Hearne](https://kevinhearne.com/), which chronicles the adventures of the world's last Druid.

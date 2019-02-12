@@ -3,7 +3,7 @@ layout:    post
 title:     "A case of subscriber limits"
 date:      2016-7-15 22:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/7/15/a-case-of-subscriber-limits
+permalink: /blog/2016/7/15/a-case-of-subscriber-limits.html
 ---
 
 Yesterday morning my [mailing list](http://promo.jeroensteenbeeke.nl/) had 83 subscribers. I've grown this list gradually over the past two years (I think? I'm not entirely sure when I started it and too lazy to look it up), with some of the largest increases coming from cross-promotions. I migrated it to [MailChimp](http://mailchimp.com/) a while ago, finding it infinitely better than my custom built solution.

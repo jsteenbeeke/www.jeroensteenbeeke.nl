@@ -3,7 +3,7 @@ layout:    post
 title:     "The shower playlist"
 date:      2016-6-3 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/6/3/the-shower-playlist
+permalink: /blog/2016/6/3/the-shower-playlist.html
 ---
 
 I love taking showers. In addition to the usual benefits like getting clean I find them incredibly relaxing, and they often help me clear my mind, and fill it with fresh ideas. I think that time spent in showers has contributed significantly to my stories, and many of my better story ideas came into being during a shower.
@@ -11,7 +11,7 @@ I love taking showers. In addition to the usual benefits like getting clean I fi
 <!--more-->
 Now, I've also stated that music plays a big role in helping me get into the right state of mind. Enter the Bluetooth Shower Speaker:
 
-![https://www.jeroensteenbeeke.nl/images/bluetooth-shower-speaker](https://www.jeroensteenbeeke.nl/images/bluetooth-shower-speaker)
+![https://www.jeroensteenbeeke.nl/images/bluetooth-shower-speaker.jpg](https://www.jeroensteenbeeke.nl/images/bluetooth-shower-speaker.jpg)
 
 Listening to my favorite music has done wonders to enhance my in-shower creative process. In fact, I have a special playlist I generally only listen to while taking a shower. While most of it is Trance music, not all of it is:
 

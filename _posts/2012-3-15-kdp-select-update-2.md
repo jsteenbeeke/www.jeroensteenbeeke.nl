@@ -3,7 +3,7 @@ layout:    post
 title:     "Another KDP Select update"
 date:      2012-3-15 09:11:46 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/3/15/kdp-select-update-2
+permalink: /blog/2012/3/15/kdp-select-update-2.html
 ---
 
 As I mentioned in the previous update I intended to let the Gift of the Destroyer free promo last a whole weekend instead of just a single day to see if it led to more downloads.When running just a single day, I &quot;scored&quot; the following number of downloads:

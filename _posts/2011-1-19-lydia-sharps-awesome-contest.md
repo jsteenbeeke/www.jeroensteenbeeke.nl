@@ -3,7 +3,7 @@ layout:    post
 title:     "Lydia Sharp's \"The Awesome\" contest"
 date:      2011-1-19 08:04:37 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/1/19/lydia-sharps-awesome-contest
+permalink: /blog/2011/1/19/lydia-sharps-awesome-contest.html
 ---
 
 I think I've mentioned this on Twitter, but I haven't written about it here. A few weeks ago [I entered in Lydia Sharp's contest that was nicknamed &quot;The Awesome&quot;](http://lydiasharp.blogspot.com/2011/01/very-first-ever-never-been-done-here.html). The concept was simple: send in the first 500 words of your novel. Lydia would then read each entry and give a critique of the entry. One entry would be declared the winner, and then receive a full chapter critique by both Lydia and Joe Sharp, a query letter critique, an author spotlight, and (if living in the US), a free signed copy of Lydia Sharp's latest anthology.

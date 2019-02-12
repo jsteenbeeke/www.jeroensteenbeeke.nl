@@ -3,7 +3,7 @@ layout:    post
 title:     "To cut or to alter?"
 date:      2011-6-22 17:00:09 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/6/22/cut-alter
+permalink: /blog/2011/6/22/cut-alter.html
 ---
 
 I think I may have to postpone the publication of Revenant Rising. There are a number of reasons for this, but the primary reason is that my current round of edits is turning into a rather substantial rewrite of the story. I've already completely redone the first chapter, and I'm sure there are many parts further in the story that would benefit from further rewrites. One particular subplot is turning out to be more of a hindrance than a benefit to the story, so I'll either substantially alter it or cut it entirely.

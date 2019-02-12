@@ -3,7 +3,7 @@ layout:    post
 title:     "Let's *not* kill Hitler"
 date:      2015-11-27 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/11/27/lets-not-kill-hitler
+permalink: /blog/2015/11/27/lets-not-kill-hitler.html
 ---
 
 I'm assuming a number of my readers will be familiar with [Godwin's Law](https://en.wikipedia.org/wiki/Godwin's_Law):

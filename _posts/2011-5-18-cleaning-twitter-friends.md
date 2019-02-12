@@ -3,7 +3,7 @@ layout:    post
 title:     "Cleaning up my Twitter friends"
 date:      2011-5-18 11:52:37 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/5/18/cleaning-twitter-friends
+permalink: /blog/2011/5/18/cleaning-twitter-friends.html
 ---
 
 In the last few weeks, my online presence has been a bit subdued. This is my first blog post in a month, and I've been using Twitter only about half as much as usual. As a result of this, each time I do turn on my Twitter client I have a lot of messages to read.� A lot of these messages I find entirely uninteresting, due to the fact that I follow a lot of fellow writers who mostly only tweet about their own work and never socialize.

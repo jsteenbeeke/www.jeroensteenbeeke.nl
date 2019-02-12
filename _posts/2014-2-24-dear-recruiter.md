@@ -3,7 +3,7 @@ layout:    post
 title:     "Dear Recruiter"
 date:      2014-2-24 11:23:59 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/24/dear-recruiter
+permalink: /blog/2014/2/24/dear-recruiter.html
 ---
 
 This post is a refer-back-later post, which I can show to recruiters when they [send me a contact invite on LinkedIn](https://www.jeroensteenbeeke.nl/kind-headhunters/). This is to save both them and me some time.

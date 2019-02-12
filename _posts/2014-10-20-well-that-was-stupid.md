@@ -3,7 +3,7 @@ layout:    post
 title:     "Well that was stupid"
 date:      2014-10-20 12:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/10/20/well-that-was-stupid
+permalink: /blog/2014/10/20/well-that-was-stupid.html
 ---
 
 I've mentioned this on Twitter a couple of times, but I've been spending way too much time between writing projects lately. The main culprit for this delay has been the site you are looking at right now, with a vacation to Alaska also being a significant factor.

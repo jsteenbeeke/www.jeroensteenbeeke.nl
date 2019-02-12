@@ -3,7 +3,7 @@ layout:    post
 title:     "John Scalzi (almost) made me cry"
 date:      2015-9-27 13:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/9/27/john-scalzi-almost-made-me-cry
+permalink: /blog/2015/9/27/john-scalzi-almost-made-me-cry.html
 ---
 
 As I mentioned in the post where I summarized my re-reading experiences of Brandon Sanderson's Mistborn series, the next phase of my re-read all the things would be the [Old Man's War](https://en.wikipedia.org/wiki/Old_Man%27s_War) series by [John Scalzi](http://whatever.scalzi.com/). Contrary to most of the books I've read this year, Old Man's War is Science Fiction rather than fantasy, so it was a good change of scenery.

@@ -3,7 +3,7 @@ layout:    post
 title:     "So how is this self-publishing adventure going so far?"
 date:      2012-7-18 11:41:18 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/7/18/self-publishing-adventure-far
+permalink: /blog/2012/7/18/self-publishing-adventure-far.html
 ---
 
 People often ask me how my books are doing, and as much as I'd like to answer this question with &quot;great&quot;, that would be lying. Sure, I've sold a few books, and I've received lots of positive feedback, but the truth is that Gift of the Destroyer doesn't get that many sales. The most success I've had was when I participated in KDP Select, where I got a few hundred free downloads and a few sales afterwards.

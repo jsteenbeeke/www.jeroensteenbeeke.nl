@@ -3,7 +3,7 @@ layout:    post
 title:     "Gift of the Destroyer availability"
 date:      2013-4-17 20:53:31 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/4/17/gift-destroyer-availability
+permalink: /blog/2013/4/17/gift-destroyer-availability.html
 ---
 
 As some of you know, my e-books are available from a wide range of stores. Amazon, Barnes  Noble, Kobo, the iBookStore, Lulu and probably quite a few resellers of the previous. Most of these external stores are facilitated through Lulu.

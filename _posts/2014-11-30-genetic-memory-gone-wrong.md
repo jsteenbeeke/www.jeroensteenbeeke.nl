@@ -3,7 +3,7 @@ layout:    post
 title:     "Genetic Memory gone wrong"
 date:      2014-11-30 22:29:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/11/30/genetic-memory-gone-wrong
+permalink: /blog/2014/11/30/genetic-memory-gone-wrong.html
 ---
 
 A theme sometimes explored in Science Fiction is that of Genetic Memory: the ability to pass on memories in one's genetic code. For instance It is a significant plot device in the [Dune series by Frank Herbert](http://dune.wikia.com/wiki/Genetic_memory), where the ability to unlock the memories of one's ancestors can give one significant power.

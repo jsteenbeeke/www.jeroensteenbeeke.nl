@@ -3,7 +3,7 @@ layout:    post
 title:     "Outrageously priced whisky"
 date:      2016-5-10 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/5/10/outrageously-priced-whisky
+permalink: /blog/2016/5/10/outrageously-priced-whisky.html
 ---
 
 Last Friday I got an e-mail from a local whisky distillery, announcing their second bottling (I think they started distilling in 2010), which was available for order through their web shop.

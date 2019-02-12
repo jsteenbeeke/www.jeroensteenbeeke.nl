@@ -3,7 +3,7 @@ layout:    post
 title:     "New cover incoming"
 date:      2012-7-23 08:56:55 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/7/23/cover-incoming
+permalink: /blog/2012/7/23/cover-incoming.html
 ---
 
 A few days ago I mentioned that my sales weren't going as well as I'd hoped, and that I was open to suggestions on how to fix this. I've asked a few people for honest advice, and one of my friends also responded in the comments section. After this, I also created [a topic on the Kindleboards](http://www.kindleboards.com/index.php/topic,120995.0.html) to ask for advice. Initially, I asked only for cover critique, but seeing as the people at the Kindleboards can't help wanting to help out some more, they also gave me some additional advice:

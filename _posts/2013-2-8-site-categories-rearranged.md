@@ -3,7 +3,7 @@ layout:    post
 title:     "Site categories rearranged"
 date:      2013-2-8 09:13:08 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/2/8/site-categories-rearranged
+permalink: /blog/2013/2/8/site-categories-rearranged.html
 ---
 
 This is probably going to result in a few hundred 404 errors in my website log, but I just finished rearranging the categories of my posts. The categories I had were pretty meaningless, and not very well defined.

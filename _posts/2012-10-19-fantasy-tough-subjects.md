@@ -3,7 +3,7 @@ layout:    post
 title:     "Fantasy and tough subjects"
 date:      2012-10-19 16:00:50 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/10/19/fantasy-tough-subjects
+permalink: /blog/2012/10/19/fantasy-tough-subjects.html
 ---
 
 **** Warning: this post may contain spoilers for a wide number of fantasy novels by various authors ****

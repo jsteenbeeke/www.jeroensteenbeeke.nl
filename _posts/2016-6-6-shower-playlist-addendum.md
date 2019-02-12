@@ -3,7 +3,7 @@ layout:    post
 title:     "Shower playlist addendum"
 date:      2016-6-6 22:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/6/6/shower-playlist-addendum
+permalink: /blog/2016/6/6/shower-playlist-addendum.html
 ---
 
 Last Friday I posted [my shower playlist](/2016/6/3/the-shower-playlist.html), a bunch of songs I often listen to while taking a shower that help get me in the mood for writing. I was reasonably sure I hadn't forgotten any of the songs. Turns out I was wrong. I missed no less than three of them, so here they are:

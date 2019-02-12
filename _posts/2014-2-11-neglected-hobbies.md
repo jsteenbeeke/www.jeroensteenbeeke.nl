@@ -3,7 +3,7 @@ layout:    post
 title:     "Neglected hobbies"
 date:      2014-2-11 12:56:09 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/11/neglected-hobbies
+permalink: /blog/2014/2/11/neglected-hobbies.html
 ---
 
 I often joke that I have too many hobbies. It's true, really, and the most obvious solution would be to drop a few and focus on the others. Sounds good in theory, but you decide which hobby you're going to drop, when you love them all equally. Part of the problem is a decrease in free time as a result of wanting to lose weight - I spend a lot more time playing [Dance Dance Revolution](http://en.wikipedia.org/wiki/Dance_Dance_Revolution) to burn extra calories (and it's working, I've lost over 9kg since I started). Additionally, there have been a lot of extra writing-related &quot;stuff that needs to be done&quot; kind of jobs, most of which are now completed.

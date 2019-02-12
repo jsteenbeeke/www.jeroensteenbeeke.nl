@@ -3,10 +3,10 @@ layout:    post
 title:     "Let's talk about Dungeons and Dragons"
 date:      2016-3-30 16:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/3/30/lets-talk-about-dungeons-and-dragons
+permalink: /blog/2016/3/30/lets-talk-about-dungeons-and-dragons.html
 ---
 
-If you've ever read my author bio, or if you've been paying close attention to my Twitter feed, you'll know that one of my hobbies is [Dungeons &amp; Dragons](http://dnd.wizards.com/). I've been playing the game for some time now, since 2005 I think. I started with DD 3.5 and from there (recently) moved on to DD 5. I also own the Pathfinder rulebook, but I have not actually played it.
+If you've ever read my author bio, or if you've been paying close attention to my Twitter feed, you'll know that one of my hobbies is [Dungeons  Dragons](http://dnd.wizards.com/). I've been playing the game for some time now, since 2005 I think. I started with DD 3.5 and from there (recently) moved on to DD 5. I also own the Pathfinder rulebook, but I have not actually played it.
 
 <!--more-->
 Up until a few years ago, I used to DM these games, which is quite a feat considering my mastery of the rules is somewhat sketchy. I ran the [Savage Tide campaign by Paizo](https://en.wikipedia.org/wiki/Savage_Tide) for two different parties. One party stopped playing halfway through the 7th installment, while the other finished it in spectacular fashion. Some nice memories to share from that second campaign:

@@ -3,7 +3,7 @@ layout:    post
 title:     "Ellcrys life expectancy"
 date:      2012-9-24 09:42:45 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/9/24/ellcrys-life-expectancy
+permalink: /blog/2012/9/24/ellcrys-life-expectancy.html
 ---
 
 **This post contains spoilers.**

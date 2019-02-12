@@ -3,7 +3,7 @@ layout:    post
 title:     "Time to watch some movies"
 date:      2013-8-20 08:22:45 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/8/20/time-watch-movies
+permalink: /blog/2013/8/20/time-watch-movies.html
 ---
 
 I'm currently in the process of polishing and finishing up The Troll Warriors of Sheepbane, and while waiting for feedback from the alpha readers I'm making preparations for my next writing project: a series of five urban fantasy novellas. As with previous books, I started with a rough plot outline, stating a number of things that should happen in each book. This process is mostly done, but before I can start outlining each book in detail, I need to do one more thing.

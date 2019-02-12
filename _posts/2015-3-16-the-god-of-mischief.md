@@ -3,7 +3,7 @@ layout:    post
 title:     "The God of Mischief"
 date:      2015-3-16 13:15:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/3/16/the-god-of-mischief
+permalink: /blog/2015/3/16/the-god-of-mischief.html
 ---
 
 There are many things to be said about names. Figuring out what name to give your child is probably one of the hardest decisions a parent has to make (though I cannot speak from experience in that regard), and they often take a long time to figure out a good one. Not all names are chosen equally well, as many a bearer of a traditional Dutch name can attest [when foreigners try to pronounce it](http://en.wikipedia.org/wiki/Tiny_Kox).
@@ -21,7 +21,7 @@ Rabbits are well known for chewing through things, and Loki is no exception, as 
 
 It all started when we thought his cage was a bit too small for him by itself. We took a small portable pen (designed to let rabbits play outside, but to limit where they can go) and put it next to his cage. He could leave the cage and walk around inside the pen. We figured he wouldn't be able to get out. We were wrong.
 
-![https://www.jeroensteenbeeke.nl/images/pen-old](https://www.jeroensteenbeeke.nl/images/pen-old)
+![https://www.jeroensteenbeeke.nl/images/pen-old.jpg](https://www.jeroensteenbeeke.nl/images/pen-old.jpg)
 
 1. Escape 1: he pushed the pen aside and walked out. Countermeasure: block the pen with heavy boxes
 1. Escape 2: he squeezed himself between the pen wall and pushed the boxes aside. Countermeasure: heavier boxes
@@ -35,13 +35,13 @@ It all started when we thought his cage was a bit too small for him by itself. W
 
 After this, we figured the countermeasures were getting ridiculous, and we bought a new pen:
 
-![https://www.jeroensteenbeeke.nl/images/pen](https://www.jeroensteenbeeke.nl/images/pen)
+![https://www.jeroensteenbeeke.nl/images/pen.jpg](https://www.jeroensteenbeeke.nl/images/pen.jpg)
 (rabbit on picture not ours)
 
 Which one of my co-workers nicknamed Bunny Alcatraz. It's about 5 times as heavy as his old pen, and Loki is unable to lift it. It's closed on the top, but it has doors and hatches so we can easily let him out or pet him. He has not escaped from this setup yet.
 
 He has, however, slipped out of the back door a few times when he was walking around freely, and he loves our garden. Something tells me this won't be his last adventure.
 
-![https://www.jeroensteenbeeke.nl/images/loki-on-couch](https://www.jeroensteenbeeke.nl/images/loki-on-couch)
+![https://www.jeroensteenbeeke.nl/images/loki-on-couch.jpg](https://www.jeroensteenbeeke.nl/images/loki-on-couch.jpg)
 
 Want to see more of him? [He has his own Instagram page](https://instagram.com/bunnyloki/).

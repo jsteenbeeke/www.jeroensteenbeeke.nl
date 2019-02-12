@@ -3,7 +3,7 @@ layout:    post
 title:     "The rocky road to Incursion"
 date:      2018-1-17 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2018/1/17/the-rocky-road-to-incursion
+permalink: /blog/2018/1/17/the-rocky-road-to-incursion.html
 ---
 
 By the time this gets published, my mailing list will have been hit with the announcement that [Incursion](/books/incursion.html) is available for preorder. I've made a small mention of this on Twitter a while ago, and I actually intended the mailing list to be notified shortly after, but I didn't get around to it until now.

@@ -3,7 +3,7 @@ layout:    post
 title:     "A writer's doubts"
 date:      2014-1-9 08:08:09 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/1/9/writers-doubts
+permalink: /blog/2014/1/9/writers-doubts.html
 ---
 
 I am currently working on a series of Urban Fantasy novellas, and recently completed the alpha reading version of the first book in this series. While my alpha readers are taking a crack at it, I am in the process of outlining the second book, which I hope to start writing next week.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Adapted for television"
 date:      2015-2-11 12:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/2/11/adapted-for-television
+permalink: /blog/2015/2/11/adapted-for-television.html
 ---
 
 Yesterday one of my colleagues, who is currently reading Robert Jordan's [Wheel of Time](http://en.wikipedia.org/wiki/The_Wheel_of_Time) series, gave me a link to a video that was released the night before called **Winter Dragon**, which was apparently meant as a pilot of sorts for a Wheel of Time television series. Robert Jordan's people seem to have not been informed of this pilot, nor did Brandon Sanderson (who completed the series) seem to be aware of its existence until the moment it was broadcast, on a little-known TV channel in the middle of the night. The consensus seems to be that it was made for legal reasons more than anything else. My opinion about this was briefly summarized on Twitter:

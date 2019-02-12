@@ -3,7 +3,7 @@ layout:    post
 title:     "Sanderson's First Law"
 date:      2012-11-21 22:17:02 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/11/21/sandersons-law
+permalink: /blog/2012/11/21/sandersons-law.html
 ---
 
 ***Warning: This post contains spoilers for both my work and Brandon Sanderson's work***

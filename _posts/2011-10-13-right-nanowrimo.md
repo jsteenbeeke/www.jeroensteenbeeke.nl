@@ -3,7 +3,7 @@ layout:    post
 title:     "Oh right, Nanowrimo"
 date:      2011-10-13 11:26:36 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/10/13/right-nanowrimo
+permalink: /blog/2011/10/13/right-nanowrimo.html
 ---
 
 Almost a year ago [I wrote about not participating in Nanowrimo](https://www.jeroensteenbeeke.nl/why-i-didnt-participate-in-nanowrimo/), mostly because I didn't figure out what it was until it was halfway finished. So, with [Nanowrimo](http://www.nanowrimo.org/) only 18 days away, and half the writers I follow on Twitter going crazy, I must admit the thought is crossing my mind again.

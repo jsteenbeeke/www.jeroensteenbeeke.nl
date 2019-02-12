@@ -3,7 +3,7 @@ layout:    post
 title:     "My writing tools"
 date:      2010-11-15 08:05:16 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/11/15/my-writing-tools
+permalink: /blog/2010/11/15/my-writing-tools.html
 ---
 
 In my day-job, I work as a Software Engineer. It should come as no surprise that I feel quite comfortable around computers and technology, and my electricity bill reflects that. I thought it would be interesting to talk about the various &quot;tools&quot; I use for writing. The basics are obvious, I have several small notebooks that contain all sorts of outlines, character descriptions, event summaries and map sketches. But the technological stuff is far more interesting:

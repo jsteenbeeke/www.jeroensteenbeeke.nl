@@ -3,10 +3,10 @@ layout:    post
 title:     "First drafts complete, reflections"
 date:      2015-4-13 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/4/13/first-drafts-complete-reflections
+permalink: /blog/2015/4/13/first-drafts-complete-reflections.html
 ---
 
-Many people will know I have been working on an Urban Fantasy series for some time now. It's listed prominently on my [&quot;current projects&quot; post](/2014/1/22/note-current-projects.html) (which I should probably upgrade to an actual page sometime, so people can find it more easily), and each successive book in the series has gradually been upgraded to first draft as I finished them.
+Many people will know I have been working on an Urban Fantasy series for some time now. It's listed prominently on my [current projects post](/2014/1/22/note-current-projects.html) (which I should probably upgrade to an actual page sometime, so people can find it more easily), and each successive book in the series has gradually been upgraded to first draft as I finished them.
 
 <!--more-->
 As you can see, all five of them are now at first draft stage or higher. I finished first draft of the final novella last Tuesday, and will soon start editing the series (starting with a quick re-read of the first book, and then a comprehensive edit of books 2 to 5). Once this is done, my alpha readers will get a go at them, which is likely to result in quite a few changes as well.

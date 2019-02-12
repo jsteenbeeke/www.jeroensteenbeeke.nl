@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: August 2015"
 date:      2015-8-11 12:30:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/8/11/musical-inspiration-august-2015
+permalink: /blog/2015/8/11/musical-inspiration-august-2015.html
 ---
 
 Seeing as I didn't post one of these in June, and July featured [Adrian von Ziegler](/2015/7/16/musical-inspiration-adrian-von-ziegler.html), today I'll return to my regular schedule and throw a bunch of Beatport links at you:

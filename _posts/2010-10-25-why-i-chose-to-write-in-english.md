@@ -3,7 +3,7 @@ layout:    post
 title:     "Why I chose to write in English"
 date:      2010-10-25 22:01:23 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/10/25/why-i-chose-to-write-in-english
+permalink: /blog/2010/10/25/why-i-chose-to-write-in-english.html
 ---
 
 Once people get past the initial shock of hearing I am writing a book, they invariable end up asking why I chose to write it in English. Seeing as I am from the Netherlands, my first language is Dutch, so it would seem logical that my stories should be written in Dutch too. Yet here I am writing in English, and in this post I'll try my best to explain my reasons for doing so.

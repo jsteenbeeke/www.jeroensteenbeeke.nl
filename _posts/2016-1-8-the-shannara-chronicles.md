@@ -3,7 +3,7 @@ layout:    post
 title:     "The Shannara Chronicles"
 date:      2016-1-8 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/1/8/the-shannara-chronicles
+permalink: /blog/2016/1/8/the-shannara-chronicles.html
 ---
 
 I've been a fan of [Terry Brooks](http://terrybrooks.net/) for a long time, over two decades. I remember walking around the local library when I was 10 or 11, looking for new fantasy books to read. At this point I had already read Lord of the Rings, as well as everything [David Eddings](https://en.wikipedia.org/wiki/David_Eddings) had written up until that point (mind you, this was 1993 or 1994, so he was still actively writing at that point).
@@ -19,7 +19,7 @@ So there I was, walking along those aisles, when I suddenly noticed a bunch of b
 
 Well, she was right though. I've read the vast majority of what Terry has written over the years (I haven't gotten around to his most recent releases), and my bookcase has a dedicated Terry Brooks shelf (which isn't even large enough to fit all of his books I own, and a few of them I only have as e-books):
 
-![https://www.jeroensteenbeeke.nl/images/terry-brooks-shelf](https://www.jeroensteenbeeke.nl/images/terry-brooks-shelf)
+![https://www.jeroensteenbeeke.nl/images/terry-brooks-shelf.jpg](https://www.jeroensteenbeeke.nl/images/terry-brooks-shelf.jpg)
 
 Anyway, fast-forward two decades. I've been following what Terry's been up to on a regular basis, when suddenly I find an announcement that 2nd book Elfstones of Shannara is getting turned into a series, by none other than MTV. My responses, in order:
 

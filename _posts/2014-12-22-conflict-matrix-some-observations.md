@@ -3,7 +3,7 @@ layout:    post
 title:     "Conflict Matrix: Some observations"
 date:      2014-12-22 11:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/12/22/conflict-matrix-some-observations
+permalink: /blog/2014/12/22/conflict-matrix-some-observations.html
 ---
 
 Last week I posted about [using a conflict matrix](/2014/12/17/conflict-matrix.html) to figure out stuff that needs to happen in your story. I've been working on mine for the past several days (11 significant characters = 110 motivations), and I've made a number of observations that could be helpful.

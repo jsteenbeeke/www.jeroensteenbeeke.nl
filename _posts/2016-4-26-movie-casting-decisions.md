@@ -3,12 +3,12 @@ layout:    post
 title:     "Movie casting decisions"
 date:      2016-4-26 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/26/movie-casting-decisions
+permalink: /blog/2016/4/26/movie-casting-decisions.html
 ---
 
 While browsing [IMDB](http://www.imdb.com/) a while ago, I noticed something pretty cool:
 
-[<img alt="http://ia.media-imdb.com/images/M/MV5BMjA2ODQxODQ3NF5BMl5BanBnXkFtZTgwMzk3MzYyNTE@._V1_UX182_CR0,0,182,268_AL_.jpg" src="http://ia.media-imdb.com/images/M/MV5BMjA2ODQxODQ3NF5BMl5BanBnXkFtZTgwMzk3MzYyNTE@._V1_UX182_CR0,0,182,268_AL_.jpg" />](http://www.imdb.com/title/tt1648190/)
+[![http://ia.media-imdb.com/images/M/MV5BMjA2ODQxODQ3NF5BMl5BanBnXkFtZTgwMzk3MzYyNTE@._V1_UX182_CR0,0,182,268_AL_.jpg](http://ia.media-imdb.com/images/M/MV5BMjA2ODQxODQ3NF5BMl5BanBnXkFtZTgwMzk3MzYyNTE@._V1_UX182_CR0,0,182,268_AL_.jpg)](http://www.imdb.com/title/tt1648190/)
 
 <!--more-->
 Apparently they're making a movie out of Stephen King's [Dark Tower](https://en.wikipedia.org/wiki/The_Dark_Tower_%28series%29) series. This could of course go many ways. There are eight books now (I've read the initial seven), and it's a pretty awesome tale.

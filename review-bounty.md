@@ -27,7 +27,7 @@ The following books are eligible for the Review Bounty program:
 
 Winning reviews for any of these books will receive the entire Unbound series (excluding future books that do not have print versions at the time of winning).
 
-![https://www.jeroensteenbeeke.nl/images/reward-unbound](https://www.jeroensteenbeeke.nl/images/reward-unbound)
+![https://www.jeroensteenbeeke.nl/images/reward-unbound.jpg](https://www.jeroensteenbeeke.nl/images/reward-unbound.jpg)
 
 **The Hunter in the Dark**
 
@@ -35,7 +35,7 @@ Winning reviews for any of these books will receive the entire Unbound series (e
 
 Winning reviews for any of these books will receive the entire Hunter in the Dark series.
 
-![https://www.jeroensteenbeeke.nl/images/reward-hunter](https://www.jeroensteenbeeke.nl/images/reward-hunter)
+![https://www.jeroensteenbeeke.nl/images/reward-hunter.jpg](https://www.jeroensteenbeeke.nl/images/reward-hunter.jpg)
 
 **Standalone**
 
@@ -43,7 +43,7 @@ Winning reviews for any of these books will receive the entire Hunter in the Dar
 
 Winning reviews get signed copies of The Troll Warriors of Sheepbane, Gift of the Destroyer and Repulsion.
 
-![https://www.jeroensteenbeeke.nl/images/reward-troll](https://www.jeroensteenbeeke.nl/images/reward-troll)
+![https://www.jeroensteenbeeke.nl/images/reward-troll.jpg](https://www.jeroensteenbeeke.nl/images/reward-troll.jpg)
 
 
 For the moment, only reviews in the **Amazon US** store qualify.

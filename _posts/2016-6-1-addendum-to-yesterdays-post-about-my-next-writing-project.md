@@ -3,7 +3,7 @@ layout:    post
 title:     "Addendum to yesterday's post about my next writing project"
 date:      2016-6-1 15:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/6/1/addendum-to-yesterdays-post-about-my-next-writing-project
+permalink: /blog/2016/6/1/addendum-to-yesterdays-post-about-my-next-writing-project.html
 ---
 
 As I [announced yesterday](/2016/5/31/a-decision-has-been-made.html), my next writing project will be an epic fantasy book, the earliest ideas of which date back to 2013, when I was still writing [Hunter's Chosen](/books/hunters-chosen.html). As I mentioned, I'm currently also in the process of revising Incursion, the 6th Unbound book, which will probably be released first (though I just sent it to the alpha readers and might take a while before I consider it ready for publication).

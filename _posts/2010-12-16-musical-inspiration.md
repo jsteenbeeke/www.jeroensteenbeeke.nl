@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical inspiration"
 date:      2010-12-16 09:29:53 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/12/16/musical-inspiration
+permalink: /blog/2010/12/16/musical-inspiration.html
 ---
 
 ***** Warning, this post may contain minor spoilers for Revenant Rising *****

@@ -3,7 +3,7 @@ layout:    post
 title:     "Progress update on part 3"
 date:      2012-12-5 09:49:40 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/12/5/progress-update-part-3
+permalink: /blog/2012/12/5/progress-update-part-3.html
 ---
 
 As some of you know, I've started working on the final part of the Hunter in the Dark trilogy several weeks ago. Today I am happy to report that I have reached 27% completion on the first draft. If you're new to this blog you might wonder what's so special about 27%, but 27 is a number that tends to pop up in my books quite often.

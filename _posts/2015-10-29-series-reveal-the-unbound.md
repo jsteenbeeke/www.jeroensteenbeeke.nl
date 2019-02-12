@@ -3,7 +3,7 @@ layout:    post
 title:     "Series Reveal: The Unbound"
 date:      2015-10-29 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/10/29/series-reveal-the-unbound
+permalink: /blog/2015/10/29/series-reveal-the-unbound.html
 ---
 
 As you might know, it's been a while since I've released any new books, with the last two being released in 2013. I haven't been idle, working on a series of Urban Fantasy novellas that take place in my home region of Twente, in the east of the Netherlands. It started as a side project, but has taken almost two years to finish. I've mentioned this project a number of times, mostly referring to the individual books as book 5, book 6, etcetera, without going into details. Those of you who are aware of my [a note on current projects](/2014/1/22/note-current-projects.html) post will have some idea of what I was referring to, and I imagine a lot of my Twitter followers having grown tired of book 8 is coming along nicely.
@@ -31,7 +31,6 @@ Well enough of that! The project is nearing completion, so it's time I reveal wh
 
 
 | ![https://jeroensteenbeeke.nl/static/coverreveal/benediction.jpg](https://jeroensteenbeeke.nl/static/coverreveal/benediction.jpg) | ![https://jeroensteenbeeke.nl/static/coverreveal/deliverance.jpg](https://jeroensteenbeeke.nl/static/coverreveal/deliverance.jpg) |
-| --- | --- |
 | ![https://jeroensteenbeeke.nl/static/coverreveal/vigilance.jpg](https://jeroensteenbeeke.nl/static/coverreveal/vigilance.jpg) | ![https://jeroensteenbeeke.nl/static/coverreveal/majesty.jpg](https://jeroensteenbeeke.nl/static/coverreveal/majesty.jpg) |
 
 

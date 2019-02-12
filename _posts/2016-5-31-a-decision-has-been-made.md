@@ -3,7 +3,7 @@ layout:    post
 title:     "A decision has been made"
 date:      2016-5-31 21:50:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/5/31/a-decision-has-been-made
+permalink: /blog/2016/5/31/a-decision-has-been-made.html
 ---
 
 Last week I asked you, my esteemed readers, [what my next writing project should be](/2016/5/24/my-next-project.html). Despite the lack of replies to said post, I did receive a number of responses, which varied from your next project should be fixing your website (thanks for helping out in that regard [Mark](http://twitter.com/mark_jansen)), to messages of support that amounted to write whatever gets you most excited.

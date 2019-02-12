@@ -3,7 +3,7 @@ layout:    post
 title:     "Erana vs. Katrina"
 date:      2013-12-1 21:46:18 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/12/1/erana-vs-katrina
+permalink: /blog/2013/12/1/erana-vs-katrina.html
 ---
 
 *WARNING: This post contains spoilers for the Quest for Glory series of games*
@@ -11,7 +11,7 @@ permalink: /blog/2013/12/1/erana-vs-katrina
 A few days ago I posted a number of songs from video games that help me focus while writing. One of the songs I featured was &quot;Meeting Katrina&quot; from the video game Quest for Glory IV: Shadows of Darkness. Shortly after I posted this, I posted a message the following message to Twitter:
 
 <!--more-->
-[<img alt="https://www.jeroensteenbeeke.nl/images/f4f3f5f7db334886c27365ab907455e586ed0b88caa375a56f3313af52b0659a" src="https://www.jeroensteenbeeke.nl/images/f4f3f5f7db334886c27365ab907455e586ed0b88caa375a56f3313af52b0659a" />](https://www.jeroensteenbeeke.nl/images/f4f3f5f7db334886c27365ab907455e586ed0b88caa375a56f3313af52b0659a)
+[![https://www.jeroensteenbeeke.nl/images/f4f3f5f7db334886c27365ab907455e586ed0b88caa375a56f3313af52b0659a.png](https://www.jeroensteenbeeke.nl/images/f4f3f5f7db334886c27365ab907455e586ed0b88caa375a56f3313af52b0659a.png)](https://www.jeroensteenbeeke.nl/images/f4f3f5f7db334886c27365ab907455e586ed0b88caa375a56f3313af52b0659a)
 
 [Quest for Glory](http://en.wikipedia.org/wiki/Quest_for_Glory) is a series of adventure games by Sierra Entertainment that were released between 1989 and 1998, with a total of 5 games in the series:
 1. So you want to be a Hero?
@@ -44,7 +44,7 @@ I will try to explain my choice by elaborating on the two characters, and the ro
 ### Erana
 
 
-[<img alt="https://www.jeroensteenbeeke.nl/images/79a3860d9af80c00b06ebb948159d7806584a5cc56287cd78034263f2960e81c" src="https://www.jeroensteenbeeke.nl/images/79a3860d9af80c00b06ebb948159d7806584a5cc56287cd78034263f2960e81c" />](https://www.jeroensteenbeeke.nl/images/79a3860d9af80c00b06ebb948159d7806584a5cc56287cd78034263f2960e81c)
+[![https://www.jeroensteenbeeke.nl/images/79a3860d9af80c00b06ebb948159d7806584a5cc56287cd78034263f2960e81c.jpg](https://www.jeroensteenbeeke.nl/images/79a3860d9af80c00b06ebb948159d7806584a5cc56287cd78034263f2960e81c.jpg)](https://www.jeroensteenbeeke.nl/images/79a3860d9af80c00b06ebb948159d7806584a5cc56287cd78034263f2960e81c)
 
 The archmage Erana is one of the most famous wizards to have ever lived in the world of Gloriana, and she has spent most if not all of her life working to bring peace wherever she went. Her magic has always been used for protection and defense, and most of the Quest for Glory games feature locations that have been enchanted by her to prevent violence (all except Quest for Glory II, if we assume her retreat in Dragon Fire is similarly enchanted). When the last Boyar of Borgov Castle attempts to bring the demon Avoozl into the world, it is Erana (together with the Paladin Piotyr) who prevents this, at the cost of her own life, but this is not common knowledge. Her spirit is left trapped in a crystal inside the cave used to summon Avoozl.
 
@@ -56,7 +56,7 @@ In Quest for Glory IV, Erana appears in the dreams of the hero whenever he sleep
 ### Katrina
 
 
-[<img alt="https://www.jeroensteenbeeke.nl/images/859e9828de6ae622a1d09e3b0f21d3373ad319ed69b69d107fe2a1924a5b9d26" src="https://www.jeroensteenbeeke.nl/images/859e9828de6ae622a1d09e3b0f21d3373ad319ed69b69d107fe2a1924a5b9d26" />](https://www.jeroensteenbeeke.nl/images/859e9828de6ae622a1d09e3b0f21d3373ad319ed69b69d107fe2a1924a5b9d26)
+[![https://www.jeroensteenbeeke.nl/images/859e9828de6ae622a1d09e3b0f21d3373ad319ed69b69d107fe2a1924a5b9d26.jpg](https://www.jeroensteenbeeke.nl/images/859e9828de6ae622a1d09e3b0f21d3373ad319ed69b69d107fe2a1924a5b9d26.jpg)](https://www.jeroensteenbeeke.nl/images/859e9828de6ae622a1d09e3b0f21d3373ad319ed69b69d107fe2a1924a5b9d26)
 
 Much like Erana, Katrina is also a powerful sorceress. But contrary to Erana, Katrina's intention are not noble. She is a vampire, and the master of Ad Avis, the antagonist of the second Quest for Glory game (who also reappears in Shadows of Darkness). It is Katrina who brings the hero to the valley of Mordavia, and meets him as he escapes Avoozl's cave. Throughout the game, through a number of mysterious encounters at night, the hero gets to know her better, though nobody in the town of Mordavia seems to know her. Katrina is the one who seeks to unleash Avoozl, in order to plunge the world into eternal darkness. She's also the person who has abducted the daughter of Mordavia's innkeeper and turned her into a vampire.
 

@@ -3,7 +3,7 @@ layout:    post
 title:     "New writing schedule"
 date:      2013-3-11 08:05:26 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/3/11/writing-schedule
+permalink: /blog/2013/3/11/writing-schedule.html
 ---
 
 In my previous post I said I would be keeping my current writing schedule for the current novel, and instituting a more flexible one for my next novel.

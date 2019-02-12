@@ -3,7 +3,7 @@ layout:    post
 title:     "The psychological implications of time travel"
 date:      2011-8-22 08:19:41 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/8/22/psychological-implications-time-travel
+permalink: /blog/2011/8/22/psychological-implications-time-travel.html
 ---
 
 I believe it is fair to say that every adult has regrets, and can point out several moments in their life of which they would say if I had known then what I know now, I would have done things differently. Such feelings are part of human nature, and I guess it is the knowledge of how we failed in the past that makes us better capable of dealing with similar situations later in life.

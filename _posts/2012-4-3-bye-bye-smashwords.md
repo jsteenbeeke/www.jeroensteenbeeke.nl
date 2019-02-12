@@ -3,7 +3,7 @@ layout:    post
 title:     "Bye bye Smashwords"
 date:      2012-4-3 12:30:42 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/4/3/bye-bye-smashwords
+permalink: /blog/2012/4/3/bye-bye-smashwords.html
 ---
 
 Regular readers of this blog know I do not use Microsoft Word. In fact, I tend to stay away from Windows software entirely when it comes to writing (even if I still consider it an adequate gaming platform). I realize I am a bit of an odd duck in this regard, but I'm a Software Engineer, and I like using my time efficiently.

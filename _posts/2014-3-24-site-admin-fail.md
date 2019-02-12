@@ -3,7 +3,7 @@ layout:    post
 title:     "Site admin fail"
 date:      2014-3-24 21:26:46 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/3/24/site-admin-fail
+permalink: /blog/2014/3/24/site-admin-fail.html
 ---
 
 Today I wanted to write a large-ish post about how I obsess over sales numbers, but it seems the stars weren't aligned properly (or if you prefer a more scientific explanations: the Higgs Bosons were feeling heavier than usual). Where I normally have no issues logging into my own site, I could not, for the life of me, remember my password.

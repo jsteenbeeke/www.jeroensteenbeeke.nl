@@ -3,7 +3,7 @@ layout:    post
 title:     "The Revenant Rising revision battle plan"
 date:      2010-11-30 09:10:29 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/11/30/the-revenant-rising-revision-battle-plan
+permalink: /blog/2010/11/30/the-revenant-rising-revision-battle-plan.html
 ---
 
 Yesterday I read an interesting guest article on the [Guide to Literary Agents Editor's Blog](http://guidetoliteraryagents.com/blog/) in which literary agent Regina Brooks describes�[the publishing process at a glance](http://www.guidetoliteraryagents.com/blog/Agent+Regina+Brooks+On+The+Publishing+Process+At+A+Glance.aspx). According to her 25 step process, I've just completed step 2, which gives me the feeling that I still have a long way to go before my book will be found in print (the fact that many of the steps involve a publisher and an agent but not the author makes it a bit less daunting). But, I've decided not to let this bother me, and proceed with the next step. Which is getting a critique.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Control your story background: use a Wiki"
 date:      2016-6-20 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/6/20/control-your-story-background-use-a-wiki
+permalink: /blog/2016/6/20/control-your-story-background-use-a-wiki.html
 ---
 
 Ever since the [decision to focus on an Epic Fantasy book as my next writing project](/2016/5/31/a-decision-has-been-made.html) I have been busy writing down background information for this project. World history, persons of interest, timelines, that sort of thing. In the past, I've written down these notes either using a paper notepad, or as a big comment block at the start of the novel's [LaTeX](https://www.latex-project.org/) source file (I should probably dedicate a future blog post to why I'm using this format again).

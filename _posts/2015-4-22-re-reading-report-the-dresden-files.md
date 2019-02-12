@@ -3,7 +3,7 @@ layout:    post
 title:     "Re-reading report: the Dresden Files"
 date:      2015-4-22 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/4/22/re-reading-report-the-dresden-files
+permalink: /blog/2015/4/22/re-reading-report-the-dresden-files.html
 ---
 
 Two months ago I finished re-reading the Demon Cycle, as part of my project of re-reading a whole bunch of books. Next on my list was The Dresden Files by Jim Butcher, 15 books and counting, as well as the short story bundle Side Jobs, which I hadn't read before.

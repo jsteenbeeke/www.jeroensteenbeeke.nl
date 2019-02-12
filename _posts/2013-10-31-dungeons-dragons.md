@@ -3,7 +3,7 @@ layout:    post
 title:     "Dungeons and Dragons"
 date:      2013-10-31 11:36:51 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/10/31/dungeons-dragons
+permalink: /blog/2013/10/31/dungeons-dragons.html
 ---
 
 I got my first copy of the Dungeons and Dragons Player's Handbook in 2006, and I've been playing the game ever since. For the past seven years, I have run two different groups as a Dungeon Master across three campaigns, the last of which was completed about 3 months ago. It's a game I really like, even if the rules can get a bit overwhelming at times.

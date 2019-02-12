@@ -3,7 +3,7 @@ layout:    post
 title:     "Chasing after my writing schedule"
 date:      2013-3-6 15:14:32 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/3/6/chasing-writing-schedule
+permalink: /blog/2013/3/6/chasing-writing-schedule.html
 ---
 
 It seemed like such a good idea at the time.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Book titles"
 date:      2010-11-25 07:51:06 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/11/25/book-titles
+permalink: /blog/2010/11/25/book-titles.html
 ---
 
 I recently read an [article by agent Kimberly Shumate](http://www.guidetoliteraryagents.com/blog/Agent+Kimberly+Shumate+On+How+To+Create+A+Professional+Submission.aspx) on the [Guide to Literary Agents editor's blog](http://guidetoliteraryagents.com/blog/) that discusses tips to create a professional submission. While most tips in that article seemed fairly obvious and more or less in line with things I had already figured out based on previous advice and common sense, one advice in particular I hadn't considered yet:

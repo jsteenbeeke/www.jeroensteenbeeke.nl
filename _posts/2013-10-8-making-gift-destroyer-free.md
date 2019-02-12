@@ -3,7 +3,7 @@ layout:    post
 title:     "Considering making Gift of the Destroyer free"
 date:      2013-10-8 16:27:06 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/10/8/making-gift-destroyer-free
+permalink: /blog/2013/10/8/making-gift-destroyer-free.html
 ---
 
 Last weekend I ran another free promo for Gift of the Destroyer. After 3 very successful promotional days (over 2000 downloads) I decided to spend my additional two KDP Select days, leading to an additional 500 downloads. Throughout the weekend, I managed to stay in the top 5 free of the Epic Fantasy category on Amazon.

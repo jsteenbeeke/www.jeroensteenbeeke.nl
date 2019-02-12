@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical Inspiration: April 2016"
 date:      2016-4-4 16:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/4/musical-inspiration-april-2016
+permalink: /blog/2016/4/4/musical-inspiration-april-2016.html
 ---
 
 I haven't done one of these in a while, so here's a bunch of songs I've been listening to while writing:

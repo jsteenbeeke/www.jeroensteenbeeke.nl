@@ -3,7 +3,7 @@ layout:    post
 title:     "Writing resolution update"
 date:      2011-2-5 12:03:21 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/2/5/writing-resolution-update
+permalink: /blog/2011/2/5/writing-resolution-update.html
 ---
 
 At the start of this year, I made a [list of writing resolutions](https://www.jeroensteenbeeke.nl/writing-resolutions/). I've been doing my best to keep up with them, and I'm happy to say that so far I've succeeded.

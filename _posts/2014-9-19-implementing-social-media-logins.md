@@ -3,7 +3,7 @@ layout:    post
 title:     "Implementing Social Media Logins"
 date:      2014-9-19 08:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/9/19/implementing-social-media-logins
+permalink: /blog/2014/9/19/implementing-social-media-logins.html
 ---
 
 This new site (currently) has three different ways to log in:

@@ -3,7 +3,7 @@ layout:    post
 title:     "Mailing list fiasco recap"
 date:      2016-7-21 12:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/7/21/mailing-list-fiasco-recap
+permalink: /blog/2016/7/21/mailing-list-fiasco-recap.html
 ---
 
 Last Thursday I decided to [add a lot of people to my mailing list](/2016/7/15/a-case-of-subscriber-limits.html), hoping to improve my book sales. Things [got a bit interesting after that](/2016/7/17/why-not-to-mail-5000-people-out-of-the-blue.html).

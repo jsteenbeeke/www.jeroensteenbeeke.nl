@@ -3,7 +3,7 @@ layout:    post
 title:     "Inspiring tunes"
 date:      2011-7-19 17:30:05 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/7/19/inspiring-tunes
+permalink: /blog/2011/7/19/inspiring-tunes.html
 ---
 
 A while ago [I shared a number of songs](https://www.jeroensteenbeeke.nl/musical-inspiration/) that help me focus, both when working and when writing. There are plenty of other songs I regularly listen to, so I thought I'd share a few more:

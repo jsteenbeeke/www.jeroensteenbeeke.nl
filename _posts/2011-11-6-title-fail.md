@@ -3,7 +3,7 @@ layout:    post
 title:     "Title fail"
 date:      2011-11-6 15:37:29 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/11/6/title-fail
+permalink: /blog/2011/11/6/title-fail.html
 ---
 
 Last night, I uploaded my novel to the Kindle Store.

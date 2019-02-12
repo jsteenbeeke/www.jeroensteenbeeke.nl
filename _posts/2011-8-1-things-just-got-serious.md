@@ -3,7 +3,7 @@ layout:    post
 title:     "Things just got serious"
 date:      2011-8-1 16:00:03 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/8/1/things-just-got-serious
+permalink: /blog/2011/8/1/things-just-got-serious.html
 ---
 
 Have you ever been excited about receiving a letter from the IRS? I'm sure a lot of Americans reading this post will instantly respond &quot;No!&quot;, but in my case the answer is most definitely &quot;Yes!&quot;. Regular readers of this site know I intend to e-publish my novel Revenant Rising (and any other book I may write for the foreseeable future), and the most common venues for this are [Kindle Direct Publishing](https://kdp.amazon.com/), BN's [Pubit](http://pubit.barnesandnoble.com/) and services such as [Smashwords](http://www.smashwords.com/). While all of these are excellent venues* for me to get my books &quot;out there&quot;, these are American companies. Of course, having an American company sell my books is fine with me, except that any royalties I receive would be taxed both in the United States and in the Netherlands. The good news is that there is a tax treaty between the United States and the Netherlands, so I can get an exemption. The bad news was the amount of paperwork required.

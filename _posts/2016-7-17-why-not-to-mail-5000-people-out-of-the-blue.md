@@ -3,7 +3,7 @@ layout:    post
 title:     "Why not to mail 5000 people out of the blue"
 date:      2016-7-17 17:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/7/17/why-not-to-mail-5000-people-out-of-the-blue
+permalink: /blog/2016/7/17/why-not-to-mail-5000-people-out-of-the-blue.html
 ---
 
 Last Friday I blogged about [a rather large increase in subscribers due to sponsoring a contest](/2016/7/15/a-case-of-subscriber-limits.html), and about my intentions to send them an e-mail stating hey everyone, I'm Jeroen, I sponsored a contest you participated in, these are my books, stay on this list if you want to hear when I write another.

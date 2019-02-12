@@ -3,7 +3,7 @@ layout:    post
 title:     "My next writing project"
 date:      2010-12-7 08:57:29 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/12/7/my-next-writing-project
+permalink: /blog/2010/12/7/my-next-writing-project.html
 ---
 
 With [Revenant Rising](https://www.jeroensteenbeeke.nl/2010/11/01/novel-revenant-rising/) currently &quot;cooling down&quot; (I've put it aside for a while so I can look at it unbiased for the next round of edits) and [awaiting critique](https://www.jeroensteenbeeke.nl/2010/11/30/the-revenant-rising-revision-battle-plan/), I'm giving a lot of thought on what story I want to write next. The story I have thought about most is a direct sequel to Revenant Rising, taking place some 30 years later. But as much as I want to write that story, it makes no practical sense to start writing it now, for the following reasons:

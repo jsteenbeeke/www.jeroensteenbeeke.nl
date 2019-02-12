@@ -3,7 +3,7 @@ layout:    post
 title:     "Small World"
 date:      2014-2-26 11:16:06 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/26/small-world
+permalink: /blog/2014/2/26/small-world.html
 ---
 
 I often discuss books with my co-workers, as many of them are avid fantasy or science fiction readers. Their tastes vary, as do their preferences for reading mediums. We have people who insist on using paper books, a few die-hard e-book fanatics (myself included) and at least one guy who only listens to audiobooks.

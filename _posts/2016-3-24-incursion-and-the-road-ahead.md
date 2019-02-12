@@ -3,7 +3,7 @@ layout:    post
 title:     "Incursion and the road ahead"
 date:      2016-3-24 22:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/3/24/incursion-and-the-road-ahead
+permalink: /blog/2016/3/24/incursion-and-the-road-ahead.html
 ---
 
 Even though I neglected to make a blog post about it, my dedicated fans won't have missed the release of [Majesty](/books/majesty.html) earlier this month. I believe I've mentioned this before, but the Unbound series was envisioned as something I'd write at once, and release close together. It was meant as a side project before I continued writing Epic Fantasy.
@@ -13,7 +13,7 @@ Without posting too many spoilers, I will say that Majesty was originally meant 
 
 Yesterday evening, I finished the first draft for Incursion, the sixth Unbound book, and the start of a new arc. And being the overly enthusiastic guy that I am, I already have a cover:
 
-![https://www.jeroensteenbeeke.nl/images/incursion-promo](https://www.jeroensteenbeeke.nl/images/incursion-promo)
+![https://www.jeroensteenbeeke.nl/images/incursion-promo.jpg](https://www.jeroensteenbeeke.nl/images/incursion-promo.jpg)
 
 
 

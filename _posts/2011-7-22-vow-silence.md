@@ -3,13 +3,13 @@ layout:    post
 title:     "A vow of silence"
 date:      2011-7-22 09:30:06 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/7/22/vow-silence
+permalink: /blog/2011/7/22/vow-silence.html
 ---
 
 Have you ever wondered what it would be like to be unable to speak? There are many religions where vows of silence are part of a certain regimen, mostly in monasteries and such. But this is mostly an effort of will, a test of faith. What happens when you want to speak, but are unable to?
 
 <!--more-->
-[<img alt="https://www.jeroensteenbeeke.nl/images/42081deef2645f94f101b38cc34a3c9c5f957bcb45bcf572b96878a5881bab0a" src="https://www.jeroensteenbeeke.nl/images/42081deef2645f94f101b38cc34a3c9c5f957bcb45bcf572b96878a5881bab0a" />](https://www.jeroensteenbeeke.nl/images/42081deef2645f94f101b38cc34a3c9c5f957bcb45bcf572b96878a5881bab0a)
+[![https://www.jeroensteenbeeke.nl/images/42081deef2645f94f101b38cc34a3c9c5f957bcb45bcf572b96878a5881bab0a.jpg](https://www.jeroensteenbeeke.nl/images/42081deef2645f94f101b38cc34a3c9c5f957bcb45bcf572b96878a5881bab0a.jpg)](https://www.jeroensteenbeeke.nl/images/42081deef2645f94f101b38cc34a3c9c5f957bcb45bcf572b96878a5881bab0a)
 
 I experienced a similar situation first hand. No, the Matrix doesn't have me (or at the very least I haven't seen glitching cats), but I had a rather annoying affliction called an [Aphthous Ulcer](http://en.wikipedia.org/wiki/Aphthous_ulcer). These nasty little buggers pop up a few times every year, but they're usually restricted to my gums. All they do is make eating slightly less comfortable. This time however, the ulcer was at the side of my tongue, making any movement my tongue makes (talking, eating) extremely painful. The result: I've been mostly unable to speak for the past few days.
 

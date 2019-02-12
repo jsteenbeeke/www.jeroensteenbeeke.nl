@@ -3,14 +3,14 @@ layout:    post
 title:     "Guest post by Andi Judy"
 date:      2013-1-11 08:30:37 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/1/11/guest-post-andi-judy
+permalink: /blog/2013/1/11/guest-post-andi-judy.html
 ---
 
 Today I have something special for you guys.
 
 As most of you know, I really like using Twitter. It is a perfect tool to get in touch with all sorts of interesting people. Using Twitter, I got in touch with fellow writer [Andi Judy](https://twitter.com/Judyblackcloud), who runs a blog containing all sorts of interesting writer's advice, with the occasional personal piece. Because I really enjoy reading her blog and Twitter feed, and because she also likes fantasy, I asked her to do a guest post, to which she happily agreed.
 
-<!--more-->[<img alt="http://a0.twimg.com/profile_images/1163616688/5854_568349361559_39807274_33796276_2982210_n.jpg" src="http://a0.twimg.com/profile_images/1163616688/5854_568349361559_39807274_33796276_2982210_n.jpg" />](http://judyblackcloud.wordpress.com/)
+<!--more-->[![http://a0.twimg.com/profile_images/1163616688/5854_568349361559_39807274_33796276_2982210_n.jpg](http://a0.twimg.com/profile_images/1163616688/5854_568349361559_39807274_33796276_2982210_n.jpg)](http://judyblackcloud.wordpress.com/)
 So please enjoy this piece about writing multiple characters in epic fantasy stories!
 
 ---

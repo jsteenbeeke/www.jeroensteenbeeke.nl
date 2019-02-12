@@ -3,7 +3,7 @@ layout:    post
 title:     "Giant Asshole Alert"
 date:      2014-2-18 09:18:47 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/2/18/giant-asshole-alert
+permalink: /blog/2014/2/18/giant-asshole-alert.html
 ---
 
 **Disclaimer: Do not read this article if you are sensitive to profanity**

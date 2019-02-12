@@ -3,7 +3,7 @@ layout:    post
 title:     "Lucky number 27"
 date:      2012-10-31 10:35:41 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/10/31/lucky-number-27
+permalink: /blog/2012/10/31/lucky-number-27.html
 ---
 
 Today is Halloween, which is a holiday that is not (officially) celebrated in the Netherlands. Most of my exposure to Halloween has been through American TV shows and movies, as well as the occasional Halloween theme on websites. In essence, Halloween is supposed to be scary (or about scary things), though with the whole trick or treating I think that for most kids it's more about candy than it is about being scared.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Wait it's July already?"
 date:      2013-7-2 09:40:06 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/7/2/wait-july-already
+permalink: /blog/2013/7/2/wait-july-already.html
 ---
 
 The last few weeks have been very busy for me, mostly due to things that have not been book-related. As a result, I haven't given this blog much thought, even though I could have reported a number of things over the past few weeks. Hopefully I'll get to writing blog posts more often in the coming weeks, but I can't make any promises. That said, I have a number of things to share.

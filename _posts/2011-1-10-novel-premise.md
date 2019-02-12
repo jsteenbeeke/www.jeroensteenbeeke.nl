@@ -3,7 +3,7 @@ layout:    post
 title:     "Novel premise"
 date:      2011-1-10 09:40:50 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/1/10/novel-premise
+permalink: /blog/2011/1/10/novel-premise.html
 ---
 
 For those of you keeping track of my writing resolutions: I've written exactly 0 words last week. I did work on the premise and outline for my next novel however, so I haven't violated my resolutions. I'm not sure if I'll actually finish writing this book, as this depends on how well my querying goes when I finish the third draft of Revenant Rising. If �that goes well I'll drop everything on this project and start working on a sequel for Revenant Rising instead.

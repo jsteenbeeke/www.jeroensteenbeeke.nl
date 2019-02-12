@@ -3,7 +3,7 @@ layout:    post
 title:     "Interesting concept in a not so interesting movie"
 date:      2016-7-27 12:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/7/27/interesting-concept-in-a-not-so-interesting-movie
+permalink: /blog/2016/7/27/interesting-concept-in-a-not-so-interesting-movie.html
 ---
 
 A while ago I saw the movie [Jupiter Ascending](http://www.imdb.com/title/tt1617661), the latest film by the Wachowski's, who were also behind [the Matrix](http://www.imdb.com/title/tt0133093/). It was an interesting movie, and I don't regret seeing it. There were some pretty good parts, too, and I re-watched a few fragments for the purpose of this blog post, but it would be a stretch to say that I'd recommend seeing it if you haven't already.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Combat in space"
 date:      2014-1-21 09:39:45 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/1/21/combat-space
+permalink: /blog/2014/1/21/combat-space.html
 ---
 
 Recently I finished reading a pair of Science Fiction trilogies by fellow indie writer Michael R. Hicks (namely: [The Last War](http://www.amazon.com/Last-War-Her-Name-ebook/dp/B0063GD6GK/) and [Redemption](http://www.amazon.com/Redemption-Her-Name-Michael-Hicks-ebook/dp/B001A7X0BI/)), after a co-worker recommend them to me. While I quite enjoyed both trilogies (with the exception of a certain bit regarding the character Jodi in Final Battle), it made me wonder about the portrayal of space battles in Science Fiction, especially with regard to orbital mechanics.

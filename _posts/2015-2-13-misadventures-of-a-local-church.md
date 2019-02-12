@@ -3,7 +3,7 @@ layout:    post
 title:     "Misadventures of a local church"
 date:      2015-2-13 08:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2015/2/13/misadventures-of-a-local-church
+permalink: /blog/2015/2/13/misadventures-of-a-local-church.html
 ---
 
 Last night when I came home, I found a thick envelope sticking from the mail slot of my front door. It was addressed to me, but contrary to most mail I get, it had no stamp or postal mark. I didn't need to open it to see who the sender was: a local church.

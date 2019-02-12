@@ -3,7 +3,7 @@ layout:    post
 title:     "Why I didn't participate in NaNoWriMo"
 date:      2010-12-2 07:39:31 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2010/12/2/why-i-didnt-participate-in-nanowrimo
+permalink: /blog/2010/12/2/why-i-didnt-participate-in-nanowrimo.html
 ---
 
 I find [NaNoWriMo](http://www.nanowrimo.org/) to be an interesting concept. For those of you who are not familiar with the concept: the goal is to write a novel of at least 50K words during the month November. There are some rules of course, but the basic concept is simple. 50,000 words in 30 days, so an average of 1667 words each day to make it to the finish line. This seems a rather daunting task, but many people do make the finish line. So, is that why I did not participate, did I feel I was not up to the challenge? No.

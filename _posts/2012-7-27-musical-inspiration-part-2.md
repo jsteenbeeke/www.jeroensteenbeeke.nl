@@ -3,7 +3,7 @@ layout:    post
 title:     "Musical inspiration, part 2"
 date:      2012-7-27 13:18:58 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/7/27/musical-inspiration-part-2
+permalink: /blog/2012/7/27/musical-inspiration-part-2.html
 ---
 
 A while ago I posted a number of songs that help me focus while writing my books. I figured it was time to post a few more.

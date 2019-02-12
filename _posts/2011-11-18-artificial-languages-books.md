@@ -3,7 +3,7 @@ layout:    post
 title:     "Artificial languages in my books"
 date:      2011-11-18 08:59:14 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/11/18/artificial-languages-books
+permalink: /blog/2011/11/18/artificial-languages-books.html
 ---
 
 When I started writing books, I promised myself I wouldn't go overboard with invented languages (i.e. [Tolkien-style](http://en.wikipedia.org/wiki/Languages_constructed_by_J._R._R._Tolkien)). I am not a linguist, and what experience I have with creating languages is limited to programming languages, which are far less broad in scope than spoken and written languages.

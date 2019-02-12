@@ -3,7 +3,7 @@ layout:    post
 title:     "Minor changes, major difference"
 date:      2011-5-31 17:30:50 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/5/31/minor-changes-major-difference
+permalink: /blog/2011/5/31/minor-changes-major-difference.html
 ---
 
 A while ago I read [a post on Andi Judy's blog](http://judyblackcloud.wordpress.com/2011/05/17/troublesome-edits/) regarding troublesome words and phrases that kept turning up in her writing. Obviously, examples of what not to do should trigger only 1 response: check your own writing if you make the same mistakes. And boy, did I make those mistakes! I've been spending all my writing time the past few weeks correcting them in the Revenant Rising draft, and I haven't even started checking the sequel for them. By themselves, these mistakes are relatively minor, but when you make the same mistake all over your manuscript, it gets annoying.

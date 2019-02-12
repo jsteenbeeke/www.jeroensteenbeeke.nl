@@ -3,7 +3,7 @@ layout:    post
 title:     "Finding time to write"
 date:      2016-4-14 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/4/14/finding-time-to-write
+permalink: /blog/2016/4/14/finding-time-to-write.html
 ---
 
 It should be no secret that I don't sell enough books to make any sort of a living. If my Amazon sales rank wasn't enough of a hint, then my [bio](https://www.jeroensteenbeeke.nl/about/) of course mentions that I have a day job as a Software Engineer. An often heard excuse among would-be writers is that they'd write a book if they'd simply have the time.

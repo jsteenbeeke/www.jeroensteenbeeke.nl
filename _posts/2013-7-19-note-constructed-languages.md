@@ -3,7 +3,7 @@ layout:    post
 title:     "A note on constructed languages"
 date:      2013-7-19 11:54:47 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/7/19/note-constructed-languages
+permalink: /blog/2013/7/19/note-constructed-languages.html
 ---
 
 One thing that has always bugged me about fantasy novels is that in many of them, language barriers are either non-existent or glossed over. While there are many notable exceptions (George R.R. Martin, Robin Hobb and Christopher Paolini come to mind), there are also a number of well known books where language barriers are non-existent despite there being every reason for them to exist.

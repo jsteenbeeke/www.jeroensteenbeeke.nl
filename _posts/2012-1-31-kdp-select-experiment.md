@@ -3,7 +3,7 @@ layout:    post
 title:     "KDP Select experiment"
 date:      2012-1-31 12:05:04 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2012/1/31/kdp-select-experiment
+permalink: /blog/2012/1/31/kdp-select-experiment.html
 ---
 
 Seeing as my e-book sales have been somewhat disappointing since releasing Gift of the Destroyer last November, I've been looking at a number of ways to get more exposure for my book. I've submitted my book to several review sites, but most of those seem to be swamped with requests. Those that actually responded to my submissions were polite refusals, stating that the premise sounded interesting but they simply had no time. I'm sure that other authors will sympathize, and non-indie authors will note the parallel with submissions to literary agents (with which I have no experience).

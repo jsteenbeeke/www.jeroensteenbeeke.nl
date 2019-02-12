@@ -3,7 +3,7 @@ layout:    post
 title:     "Sidetracked"
 date:      2014-4-28 21:24:28 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/4/28/sidetracked
+permalink: /blog/2014/4/28/sidetracked.html
 ---
 
 If you've been paying attention, you'll have noticed that I haven't written a single blog post since late March. After a considerable number of posts in January and February, my posting frenzy lost momentum sometime in March, and I quit posting altogether in April. In addition to this, my Twitter activity dropped to an absolute minimum, so I'm guessing some people might be wondering what on Earth is happening with me.

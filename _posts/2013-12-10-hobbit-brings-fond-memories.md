@@ -3,13 +3,13 @@ layout:    post
 title:     "The Hobbit brings back fond memories"
 date:      2013-12-10 08:00:47 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2013/12/10/hobbit-brings-fond-memories
+permalink: /blog/2013/12/10/hobbit-brings-fond-memories.html
 ---
 
 In the next few days, The Hobbit: The Desolation of Smaug will premiere in theaters worldwide. To celebrate this occasion, I've teamed up with a number of other fantasy and supernatural fiction writers in a [4-day blog hop](http://indiebloghops.blogspot.co.uk/2013/11/fantastical-blog-hop-dec-10-13.html). As part of this blog hop, I'm giving away 2 sets of ebooks of the entire Hunter in the Dark trilogy, in a format of the winner's choice (MOBI, EPUB or PDF). One set can be won by participating in the [Blog Hop's Rafflecopter, which you can find on the Blog Hop main page](http://indiebloghops.blogspot.co.uk/2013/11/fantastical-blog-hop-dec-10-13.html), along with a number of other fabulous prizes.
 
 <!--more-->
-[<img alt="http://chrystallathoma.files.wordpress.com/2013/12/banner_fantasy_bloghop.jpg" src="http://chrystallathoma.files.wordpress.com/2013/12/banner_fantasy_bloghop.jpg" />](http://indiebloghops.blogspot.co.uk/2013/11/fantastical-blog-hop-dec-10-13.html)
+[![http://chrystallathoma.files.wordpress.com/2013/12/banner_fantasy_bloghop.jpg](http://chrystallathoma.files.wordpress.com/2013/12/banner_fantasy_bloghop.jpg)](http://indiebloghops.blogspot.co.uk/2013/11/fantastical-blog-hop-dec-10-13.html)
 
 The other set of ebooks can be won right here, by doing the following:
 1. Follow me ([@JSteenbeeke](http://twitter.com/JSteenbeeke)) on Twitter

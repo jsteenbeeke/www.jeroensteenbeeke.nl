@@ -3,7 +3,7 @@ layout:    post
 title:     "File format hell"
 date:      2011-8-5 08:28:44 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/8/5/file-format-hell
+permalink: /blog/2011/8/5/file-format-hell.html
 ---
 
 As� I am nearing the completion of Revenant Rising, all sorts of practical problems arise. My book's cover isn't finished yet, I still need to do a black and white version of the [world map](https://www.jeroensteenbeeke.nl/revenant-rising-map/), and once all those are complete, I need to get the manuscript in the proper format and sent to the various distributors. The manuscript is currently written using [LaTeX](http://en.wikipedia.org/wiki/LaTeX), which is an excellent format to work in if you're using a version control system that's used to text-based formats, and it makes generating PDFs that can be directly turned into print books a breeze. Butwhat is suitable for print books may not be suitable for e-books.

@@ -3,7 +3,7 @@ layout:    post
 title:     "Thoughts on self-publishing"
 date:      2011-1-28 07:50:30 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/1/28/thoughts-self-publishing
+permalink: /blog/2011/1/28/thoughts-self-publishing.html
 ---
 
 A number of my co-workers have suggested I try self-publishing the second I told them I have written a book. They have a number of reasons for this:

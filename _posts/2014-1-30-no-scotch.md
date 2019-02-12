@@ -3,7 +3,7 @@ layout:    post
 title:     "The \"no Scotch\" thing"
 date:      2014-1-30 09:28:05 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2014/1/30/no-scotch
+permalink: /blog/2014/1/30/no-scotch.html
 ---
 
 The last few days, a number of suspicious looking messages appeared on my Twitter stream:
@@ -28,7 +28,7 @@ And just so we're clear, I'm well beyond the legal drinking age.
 
 
 
-Beer has never really been my thing, mostly because I don't find lagers (the most common beer around here) all that special. I do enjoy wheat beer from time to time, and a good glass of [Gulpener Korenwolf](http://www.gulpener.nl/de-bieren/korenwolf/) (a Dutch witbier) or [Erdinger Weissbr&auml;u](http://www.erdinger.de/) (a German Weizenbier) I will definitely enjoy. Sometimes, I will also enjoy a good Belgian beer (of which there are many variations), [Tripel Karmeliet](http://www.bestbelgianspecialbeers.be/main_nl.html) foremost among them.
+Beer has never really been my thing, mostly because I don't find lagers (the most common beer around here) all that special. I do enjoy wheat beer from time to time, and a good glass of [Gulpener Korenwolf](http://www.gulpener.nl/de-bieren/korenwolf/) (a Dutch witbier) or [Erdinger Weissbru](http://www.erdinger.de/) (a German Weizenbier) I will definitely enjoy. Sometimes, I will also enjoy a good Belgian beer (of which there are many variations), [Tripel Karmeliet](http://www.bestbelgianspecialbeers.be/main_nl.html) foremost among them.
 
 As for another common drink, wine, I never really got into that. I know a few people who can get really excited about it, and receive boxes full of wine bottles on a weekly basis, but it's not for me.
 

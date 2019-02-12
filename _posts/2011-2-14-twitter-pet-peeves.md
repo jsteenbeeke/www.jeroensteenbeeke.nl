@@ -3,7 +3,7 @@ layout:    post
 title:     "Twitter Pet Peeves"
 date:      2011-2-14 19:47:37 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2011/2/14/twitter-pet-peeves
+permalink: /blog/2011/2/14/twitter-pet-peeves.html
 ---
 
 I'm rather specific with regard to social media. I've never been one to do something because &quot;everybody else is doing it&quot;, which is why I'm absent from websites such as Hyves and Facebook (partially due to the barf people turn their profile pages into, and the fact that I do not consider a cloud of smiley faces to be communication - yes Hyves users I'm looking at you).

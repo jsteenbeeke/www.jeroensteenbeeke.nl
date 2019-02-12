@@ -3,7 +3,7 @@ layout:    post
 title:     "Robin Hobb made me cry"
 date:      2016-3-22 10:00:00 +0100
 excerpt_separator: <!--more-->
-permalink: /blog/2016/3/22/robin-hobb-made-me-cry
+permalink: /blog/2016/3/22/robin-hobb-made-me-cry.html
 ---
 
 As my regular readers know, I've been spending a considerable amount of my reading time re-reading old books (i.e. books I had already read at least once). This has been a fun experience, and I've shared most of it with you on this blog. Among others, I've covered [Mistborn](/2015/9/7/re-reading-report-mistborn.html), [the Dresden Files](/2015/4/22/re-reading-report-the-dresden-files.html) and most notable (with respect to this post): [Old Man's War](/2015/9/27/john-scalzi-almost-made-me-cry.html).
