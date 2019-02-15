@@ -4,7 +4,6 @@ email:
 author:
 description:
 url:
-exclude: [Jenkinsfile]
 paginate: 5
 paginate_path: "/blog/page:num/"
 
