@@ -8,7 +8,7 @@ permalink: /blog/2019/2/15/new-website-location-design.html
 
 This website has had several incarnations over the years. It originally started as a Wordpress site, but
 after a rather dicey experience with malware I kind of lost faith in that approach. Back then my free time
-was somewhat less constrained then it is now, so I decided to build my own CMS system from scratch.
+was somewhat less constrained than it is now, so I decided to build my own CMS system from scratch.
 
 This worked well enough, but considering the frameworks I used this meant that hosting was rather expensive
 compared to what it had been (around $160 a year as opposed to the $15 I was paying for the Wordpress site), not
