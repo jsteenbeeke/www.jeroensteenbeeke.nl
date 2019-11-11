@@ -8,7 +8,7 @@ permalink: /mailinglist
 
 By signing up to my mailing list, you will always have the latest information about recent and future book releases, as well as up-to-date information regarding contests and promotions.
 
-<a class="btn btn-large btn-success" href="/mailinglist/subscribe/">Sign up today</a>
+<a class="btn btn-large btn-success" href="https://promo.jeroensteenbeeke.nl">Sign up today</a>
 
 ## How often will I receive mail?
 
@@ -26,7 +26,8 @@ Primarily updates on upcoming and recently released books
 
 ## I want more frequent updates
 
-For more regular updates, you can visit [my blog](/blog), I generally post updates there about once a week. For more minute updates it's probably best to keep an eye on my Twitter feed at [@JSteenbeeke](https://twitter.com/JSteenbeeke).
+I post on [my blog](/blog) more often than I send e-mails, though I generally only post updates there about once every few months.
+ For more minute updates it's probably best to keep an eye on my Twitter feed at [@JSteenbeeke](https://twitter.com/JSteenbeeke).
 
 ## What if I no longer want these updates?
 

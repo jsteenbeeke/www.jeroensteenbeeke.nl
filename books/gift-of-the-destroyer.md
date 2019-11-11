@@ -6,7 +6,7 @@ permalink: /books/gift-of-the-destroyer.html
 
 {% include bookcover-nolink.html cover="/images/covers/cover-1.png" %}
 
-Nothing could stand against the Revenant's armies. Entire nations fell as crops withered and people starved. The world's most powerful warriors could not defeat him, even with the aid of the most powerful sorceress to have ever lived.
+The Revenant's armies have swept aside all opposition. Entire nations have fallen, crops have withered, and those who have not fallen to the Revenant's forces have starved instead. The resistance lies dead at his feet, and the last two of them are surrounded by his forces, when they find a way to travel back.
 
 Thirty years earlier, the scarred warrior Brenor arrives at Lianna's farm. He holds the key to defeating the Revenant before he becomes a threat, but to do so, he needs to cross the Forbidden Lands. And for that, he needs Lianna's help.
 
