@@ -36,7 +36,7 @@ a blend of urban and high fantasy, and takes place in the same universe as [Gift
  in publishing this novel (aside from finding the time to complete writing it) is finding a new editor, as my previous editor
   is longer active in this field.
  
-Assuming I succeed in this, my next project is the seventh installment in the Unbound series, which has **Coercion** as
+Assuming I succeed in this, my next project is the seventh installment in the Unbound series, which has **Compulsion** as
 a working title.
 
 There are more books I still want to write, but those are not on the horizon at this time.
