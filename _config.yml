@@ -10,6 +10,7 @@ paginate_path: "/blog/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jemoji
 
 sass:
     sass_dir: ./_scss

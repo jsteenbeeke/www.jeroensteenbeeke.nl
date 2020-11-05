@@ -19,17 +19,18 @@ When it comes to selling books as an independent author, reviews mean a world of
 
 I will be handing out print copies whenever the number of reviews for **any single book in one store** equals or exceeds 25, 50, 100, 250 or 500 reviews. Exceptions may apply for books with low review averages, but they'll be stated explicitly for each book.
 
+## Eligible books
 
 The following books are eligible for the Review Bounty program:
 
-**The Unbound**
+### The Unbound
 {% include bookcover.html link="/books/repulsion.html" cover="images/covers/cover-6.jpg" name="Repulsion" %}{% include bookcover.html link="/books/benediction.html" cover="images/covers/cover-7.jpg" name="Benediction" %}{% include bookcover.html link="/books/deliverance.html" cover="images/covers/cover-8.jpg" name="Deliverance" %}{% include bookcover.html link="/books/vigilance.html" cover="images/covers/cover-12.jpg" name="Vigilance" %}{% include bookcover.html link="/books/majesty.html" cover="images/covers/cover-10.jpg" name="Majesty" %}{% include bookcover.html link="/books/incursion.html" cover="images/covers/cover-13.jpg" name="Incursion" %}
 
 Winning reviews for any of these books will receive the entire Unbound series (excluding future books that do not have print versions at the time of winning).
 
 ![https://www.jeroensteenbeeke.nl/images/reward-unbound.jpg](https://www.jeroensteenbeeke.nl/images/reward-unbound.jpg)
 
-**The Hunter in the Dark**
+### The Hunter in the Dark
 
 {% include bookcover.html link="/books/gift-of-the-destroyer.html" cover="images/covers/cover-1.png" name="Gift of the Destroyer" %}{% include bookcover.html link="/books/the-ravens-endgame.html" cover="images/covers/cover-2.png" name="The Raven's Endgame" %}{% include bookcover.html link="/books/hunters-chosen.html" cover="images/covers/cover-3.png" name="Hunter's Chosen" %}
 
@@ -37,7 +38,7 @@ Winning reviews for any of these books will receive the entire Hunter in the Dar
 
 ![https://www.jeroensteenbeeke.nl/images/reward-hunter.jpg](https://www.jeroensteenbeeke.nl/images/reward-hunter.jpg)
 
-**Standalone**
+### Standalone
 
 {% include bookcover.html link="/books/the-troll-warriors-of-sheepbane.html" cover="images/covers/cover-4.png" name="The Troll Warriors of Sheepbane" %}
 
@@ -45,31 +46,43 @@ Winning reviews get signed copies of The Troll Warriors of Sheepbane, Gift of th
 
 ![https://www.jeroensteenbeeke.nl/images/reward-troll.jpg](https://www.jeroensteenbeeke.nl/images/reward-troll.jpg)
 
+## Current review goals
 
-For the moment, only reviews in the **Amazon US** store qualify.
+For the moment, only reviews in the **Amazon US** store qualify. Currently, the following 
+thresholds need to be reached for a reward to be given away.
 
-| The Unbound | Next goal |
+| Icon | Meaning |
 | --- | --- |
-| [Repulsion](http://www.amazon.com/dp/B017TF4XAQ) | 25 reviews |
-| [Benediction](http://www.amazon.com/dp/B0182RBCX6) | 25 reviews |
-| [Deliverance](http://www.amazon.com/dp/B019V8RY6Y) | 25 reviews |
-| [Vigilance](http://www.amazon.com/dp/B01AQPFH2Y) | 25 reviews |
-| [Majesty](http://www.amazon.com/dp/B01BJ5703Y) | 25 reviews |
-| [Incursion](https://www.amazon.com/dp/B078J6BYNZ/) | 25 reviews |
+| :heavy_check_mark: | This goal has been reached |
+| :arrow_forward: | This is the next goal |
+| :x: | This goal cannot be reached yet |
 
+{% include break.html %}
 
-| The Hunter in the Dark | Next goal |
-| --- | --- |
-| [Gift of the Destroyer](http://www.amazon.com/dp/B0063UB58W) | 50 reviews |
-| [The Raven's Endgame](http://www.amazon.com/dp/B009BTQR4E) | 25 reviews |
-| [Hunter's Chosen](http://www.amazon.com/dp/B00E75JUP0) | 25 reviews |
+| The Unbound | | 25 reviews | 50 reviews | 100 reviews | 250 reviews | 500 reviews |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Repulsion](http://www.amazon.com/dp/B017TF4XAQ) | | :arrow_forward: | :x: | :x: | :x: | :x: |
+| [Benediction](http://www.amazon.com/dp/B0182RBCX6) | | :arrow_forward: | :x: | :x: | :x: | :x: |
+| [Deliverance](http://www.amazon.com/dp/B019V8RY6Y) | | :arrow_forward: | :x: | :x: | :x: | :x: |
+| [Vigilance](http://www.amazon.com/dp/B01AQPFH2Y) | | :arrow_forward: | :x: | :x: | :x: | :x: |
+| [Majesty](http://www.amazon.com/dp/B01BJ5703Y) | | :arrow_forward: | :x: | :x: | :x: | :x: |
+| [Incursion](https://www.amazon.com/dp/B078J6BYNZ/) | | :arrow_forward: | :x: | :x: | :x: | :x: |
 
+{% include break.html %}
 
-| Standalone | Next goal |
-| --- | --- |
-| [The Troll Warriors of Sheepbane](http://www.amazon.com/dp/B00HCBAIW0) | 25 reviews |
+| The Hunter in the Dark | | 25 reviews | 50 reviews | 100 reviews | 250 reviews | 500 reviews |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Gift of the Destroyer](http://www.amazon.com/dp/B0063UB58W) | | :heavy_check_mark: | :heavy_check_mark: | :arrow_forward: | :x: | :x: |
+| [The Raven's Endgame](http://www.amazon.com/dp/B009BTQR4E) | | :arrow_forward: | :x: | :x: | :x: | :x: |
+| [Hunter's Chosen](http://www.amazon.com/dp/B00E75JUP0) | | :arrow_forward: | :x: | :x: | :x: | :x: |
 
+{% include break.html %}
 
+| Standalone | | 25 reviews | 50 reviews | 100 reviews | 250 reviews | 500 reviews |
+| --- | --- | --- | --- | --- | --- | --- |
+| [The Troll Warriors of Sheepbane](http://www.amazon.com/dp/B00HCBAIW0) | | :arrow_forward: | :x: | :x: | :x: | :x: |
+
+{% include break.html %}
 
 Feel free to share this contest with your friends, I can only encourage it. Both [Gift of the Destroyer](http://www.amazon.com/dp/B0063UB58W) and [Repulsion](http://www.amazon.com/dp/B017TF4XAQ) should be free in most e-book stores, so entering the review contest for these is easy. 
 
@@ -95,7 +108,8 @@ Because I can't imagine anyone giving less than 4 stars being glad with print co
 More or less. I live in the Netherlands, and can send signed copies pretty much anywhere our mail service is willing to send them. Considering the size and weight of the packages, I don't expect any issues. If, for any reason, it turns out that I'm not able to send the reward to you, we'll work out something else.
 
 **How many books are you giving away?**
-At the current count: 237 books. Further releases will increase this number, and each winner will decrease it.
+
+At the current count: 234 books. Further releases will increase this number, and each winner will decrease it.
 
 **Can I win more than once?**
 You can only win each set once (there are currently three). But you can enter more than once by reviewing more than 1 book in each series.
