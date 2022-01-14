@@ -4,7 +4,7 @@ title:     "About"
 permalink: /about
 ---
 
-![/static/mailjeroen.jpg](/static/mailjeroen.jpg)
+![/images/J.Steenbeeke-books-up.jpg](/images/J.Steenbeeke-books-up.jpg)
 
 **Who are you again?**
 My name is Jeroen Steenbeeke. I was born in 1983 and I'm a fantasy writer from the [Netherlands](https://www.youtube.com/watch?v=eE_IUPInEuc).
@@ -35,4 +35,3 @@ In person, I often tell English speakers to call me Jay. It's much easier to get
 **How long have you been writing?**
 I've been trying to get a book together since I was nine or ten, but most attempts didn't even get beyond a prologue or first chapter. I did manage to write 7 chapters of really bad fantasy when I was fourteen, and even read part of it aloud during Dutch class (much to the amusement of my fellow students). My next serious attempt wasn't until I started writing Gift of the Destroyer in 2009, but I did write a wide variety of short stories in the mean time, not to mention participating in a few free form roleplaying communities.
 
-![/images/J.Steenbeeke-books-up.jpg](/images/J.Steenbeeke-books-up.jpg)
