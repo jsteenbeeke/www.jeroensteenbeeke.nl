@@ -1,0 +1,24 @@
+<div class="row">
+    {% if include.left %}
+    <div class="col-md-7">
+        <h2>{{ include.header }}</h2>
+        <p class="lead">
+            {{ include.lead }}
+        </p>
+    </div>
+    <div class="col-md-5">
+        <img src="{{ include.img }}" alt="{{ include.alt }}" class="img-fluid" />
+    </div>
+    {% else %}
+    <div class="col-md-5">
+        <img src="{{ include.img }}" alt="{{ include.alt }}" class="img-fluid" />
+    </div>
+    <div class="col-md-7">
+        <h2>{{ include.header }}</h2>
+        <p class="lead">
+            {{ include.lead }}
+        </p>
+    </div>
+    {% endif %}
+
+</div>
