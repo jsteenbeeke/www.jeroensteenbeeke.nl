@@ -1,7 +1,9 @@
 ---
-layout:    page
+layout:    default
 title:     Jeroen Steenbeeke
 ---
+
+{% include carousel.html %}
 
 ## The Unbound
 
