@@ -1,0 +1,40 @@
+<div class="row">
+
+        <div class="col-md-3">
+            <img src="{{ include.img }}" alt="{{ include.title }}" class="img-fluid" />
+        </div>
+        <div class="col-md-8 offset-sm-1">
+            <h2>{{ include.title }}</h2>
+            {% if include.lead %}
+            <p class="lead">
+                {{ include.lead }}
+            </p>
+            {% endif %}
+            {% if include.content %}
+            <p>
+                {{ include.content }}
+            </p>
+            {% endif %}
+            {% if include.content2 %}
+            <p>
+                {{ include.content2 }}
+            </p>
+            {% endif %}
+            {% if include.content3 %}
+            <p>
+                {{ include.content3 }}
+            </p>
+            {% endif %}
+            {% if include.content4 %}
+            <p>
+                {{ include.content4 }}
+            </p>
+            {% endif %}
+            {% if include.href %}
+            <p>
+                <a class="btn btn-primary" href="{{ include.href }}">{{ include.linktext }}</a>
+            </p>
+            {% endif %}
+        </div>
+
+</div>

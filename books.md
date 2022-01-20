@@ -1,9 +1,8 @@
 ---
 layout:    default
-title:     Jeroen Steenbeeke
+title:     "Books"
+permalink: /books
 ---
-
-{% include carousel.html %}
 
 <div class="container">
     <div class="row">
@@ -31,20 +30,5 @@ title:     Jeroen Steenbeeke
                 href="/books/the-troll-warriors-of-sheepbane.html"
                 linktext="Find out more"
         %}
-
-
     </div>
-    <hr />
-
-    {% include featurette.html left="" header="About me" lead="
-            Jeroen Steenbeeke (1983) is a fantasy writer from the Netherlands, and has been creating fantasy stories since the early nineties.
-
-        "  img="/assets/img/featurette/about.png" 
-            alt="Jeroen"
-            href="/about.html"
-            linktext="Read more"
-    %}
-    <hr />
-    
 </div>
-

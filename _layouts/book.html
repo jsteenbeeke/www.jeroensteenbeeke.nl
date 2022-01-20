@@ -2,13 +2,116 @@
 layout: default
 ---
 
-<div class="container card">
-    <div class="row">
-      <div class="col-md-12">
-		<h1 class="text-primary text-center">{{ page.title }}</h1>
-        
-		{{ content }}	
-      </div>
-    </div>
-  </div>
+<div class="container">
+	<img src="{{ page.cover }}" alt="{{ page.title }}" class="img-fluid mx-auto d-block" />
+
+	<h2 class="text-center">{{ page.title }}</h2>
+	
+	{{ content }}
+
+	<div class="row">
+		<div class="col-md-6">
+			<h3>E-book</h3>
+			<ul>
+				{% if page.asin %}
+
+				<li><a href="https://www.amazon.com/dp/{{ page.asin }}">Kindle edition</a>
+
+					<ul>
+						<li><a href="https://www.amazon.co.uk/dp/{{ page.asin }}">United Kingdom</a></li>
+						<li><a href="https://www.amazon.de/dp/{{ page.asin }}">Germany</a></li>
+						<li><a href="https://www.amazon.fr/dp/{{ page.asin }}">France</a></li>
+						<li><a href="https://www.amazon.es/dp/{{ page.asin }}">Spain</a></li>
+						<li><a href="https://www.amazon.it/dp/{{ page.asin }}">Italy</a></li>
+						<li><a href="https://www.amazon.nl/dp/{{ page.asin }}">Netherlands</a></li>
+						<li><a href="https://www.amazon.co.jp/dp/{{ page.asin }}">Japan</a></li>
+						<li><a href="https://www.amazon.in/dp/{{ page.asin }}">India</a></li>
+						<li><a href="https://www.amazon.ca/dp/{{ page.asin }}">Canada</a></li>
+						<li><a href="https://www.amazon.com.br/dp/{{ page.asin }}">Brazil</a></li>
+						<li><a href="https://www.amazon.com.mx/dp/{{ page.asin }}">Mexico</a></li>
+						<li><a href="https://www.amazon.com.au/dp/{{ page.asin }}">Australia</a></li>
+					</ul>
+				</li>
+				{% endif %}
+
+				{% if page.barnesNoble %}
+				<li><a href="{{ page.barnesNoble }}">Nook edition</a></li>
+				{% endif %}
+
+				{% if page.itunes %}
+				<li><a href="{{ page.itunes }}">iTunes edition</a></li>
+				{% endif %}
+
+				{% if page.kobo %}
+				<li><a href="{{ page.kobo }}">Kobo edition</a></li>
+				{% endif %}
+
+				{% if page.scribd %}
+				<li><a href="{{ page.kobo }}">Scribd edition</a></li>
+				{% endif %}
+
+				{% if page.tolino %}
+				<li><a href="{{ page.kobo }}">Tolino edition</a></li>
+				{% endif %}
+
+				{% if page.playster %}
+				<li><a href="{{ page.playster }}">Playster edition</a></li>
+				{% endif %}
+
+				{% if page.overdrive %}
+				<li><a href="{{ page.overdrive }}">Overdrive edition</a></li>
+				{% endif %}
+
+				{% if page.bibliotheca %}
+				<li><a href="{{ page.bibliotheca }}">Bibliotheca edition</a></li>
+				{% endif %}
+
+				{% if page.bakerTaylor %}
+				<li><a href="{{ page.bakerTaylor }}">Baker & Taylor edition</a></li>
+				{% endif %}
+
+				{% if page.universal %}
+				<li><a href="{{ page.universal }}">Universal Book Link</a></li>
+				{% endif %}
+
+				{% if page.luluEpub %}
+				<li><a href="{{ page.luluEpub }}">Lulu edition</a></li>
+				{% endif %}
+			</ul>
+		</div>
+		<div class="col-md-6">
+			<h3>Print</h3>
+
+			<ul>
+				{% if page.amazonPrint %}
+				<li><a href="https://www.amazon.com{{ page.amazonPrint }}">Amazon</a>
+
+					<ul>
+						<li><a href="https://www.amazon.co.uk{{ page.amazonPrint }}">United Kingdom</a></li>
+						<li><a href="https://www.amazon.de{{ page.amazonPrint }}">Germany</a></li>
+						<li><a href="https://www.amazon.fr{{ page.amazonPrint }}">France</a></li>
+						<li><a href="https://www.amazon.es{{ page.amazonPrint }}">Spain</a></li>
+						<li><a href="https://www.amazon.it{{ page.amazonPrint }}">Italy</a></li>
+						<!-- <li><a href="https://www.amazon.nl{{ page.amazonPrint }}">Netherlands</a></li> -->
+						<li><a href="https://www.amazon.co.jp{{ page.amazonPrint }}">Japan</a></li>
+						<li><a href="https://www.amazon.in{{ page.amazonPrint }}">India</a></li>
+						<li><a href="https://www.amazon.ca{{ page.amazonPrint }}">Canada</a></li>
+						<li><a href="https://www.amazon.com.br{{ page.amazonPrint }}">Brazil</a></li>
+						<li><a href="https://www.amazon.com.mx{{ page.amazonPrint }}">Mexico</a></li>
+						<li><a href="https://www.amazon.com.au{{ page.amazonPrint }}">Australia</a></li>
+					</ul>
+				</li>
+
+				{% endif %}
+
+				{% if page.luluPrint %}
+				<li><a href="{{ page.luluPrint }}">Lulu edition</a></li>
+				{% endif %}
+
+
+			</ul>
+		</div>
+	</div>
+
+</div>
 

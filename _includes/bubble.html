@@ -1,11 +1,15 @@
     <div class="col-lg-4 align-content-center">
+        {% if include.img %}
         <img src="{{ include.img }}" alt="{{ include.alt }}" class="img-fluid rounded-circle w-50 mx-auto d-block" />
+        {% endif %}
 
         <h2 class="text-center">{{ include.header }}</h2>
         <p class="text-center">
             {{ include.text }}
         </p>
+        {% if include.href %}
         <p class="text-center">
             <a class="btn btn-primary" href="{{ include.href }}">{{ include.linktext }}</a>
         </p>
+        {% endif %}
     </div>
