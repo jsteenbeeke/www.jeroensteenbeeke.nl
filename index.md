@@ -1,17 +1,50 @@
 ---
-layout:    page
+layout:    default
 title:     Jeroen Steenbeeke
 ---
 
-## The Unbound
+{% include carousel.html %}
 
-{% include bookcover.html link="/books/repulsion.html" cover="/images/covers/cover-6.jpg" name="Repulsion" %} {% include bookcover.html link="/books/benediction.html" cover="/images/covers/cover-7.jpg" name="Benediction" %} {% include bookcover.html link="/books/deliverance.html" cover="/images/covers/cover-8.jpg" name="Deliverance" %} {% include bookcover.html link="/books/vigilance.html" cover="/images/covers/cover-12.jpg" name="Vigilance" %} {% include bookcover.html link="/books/majesty.html" cover="/images/covers/cover-10.jpg" name="Majesty" %} {% include bookcover.html link="/books/incursion.html" cover="/images/covers/cover-13.jpg" name="Incursion" %} 
+<div class="container">
+    <div class="row">
+        {% include bubble.html 
+                header="The Unbound" 
+                text="What price would you pay to have superpowers?"  
+                img="/assets/img/marketing/unbound.png" 
+                alt="Majesty" 
+                href="/unbound.html"
+                linktext="Find out more"
+        %}
+        {% include bubble.html 
+                header="The Hunter in the Dark" 
+                text="A world slowly dying. A man hunted. A woman tied to his past and future."  
+                img="/assets/img/marketing/hunterverse.png" 
+                alt="Gift of the Destroyer" 
+                href="/hunterverse.html"
+                linktext="Find out more"
+        %}
+        {% include bubble.html 
+                header="The Troll Warriors of Sheepbane" 
+                text="A deep dive into an author's crazy dreams."  
+                img="/assets/img/marketing/standalone.png" 
+                alt="Standalone" 
+                href="/books/the-troll-warriors-of-sheepbane.html"
+                linktext="Find out more"
+        %}
 
-## The Hunter in the Dark
 
-{% include bookcover.html link="/books/gift-of-the-destroyer.html" cover="/images/covers/cover-1.png" name="Gift of the Destroyer" %} {% include bookcover.html link="/books/the-ravens-endgame.html" cover="/images/covers/cover-2.png" name="The Raven's Endgame" %} {% include bookcover.html link="/books/hunters-chosen.html" cover="/images/covers/cover-3.png" name="Hunter's Chosen" %} 
+    </div>
+    <hr />
 
-## Standalone
+    {% include featurette.html left="" header="About me" lead="
+            Jeroen Steenbeeke (1983) is a fantasy writer from the Netherlands, and has been creating fantasy stories since the early nineties.
 
-{% include bookcover.html link="/books/the-troll-warriors-of-sheepbane.html" cover="/images/covers/cover-4.png" name="The Troll Warriors of Sheepbane" %} 
+        "  img="/assets/img/featurette/about.png" 
+            alt="Jeroen"
+            href="/about.html"
+            linktext="Read more"
+    %}
+    <hr />
+    
+</div>
 

@@ -7,11 +7,7 @@
 @import "bootstrap/bootstrap";
 
 body {
-	background-image: url('/assets/img/background.png');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center top;
-	background-size: cover;
+	background-color: #ffffff;
 }
 
 .card {
@@ -28,4 +24,8 @@ table {
 	td {
 		min-width:100px;
 	}
+}
+
+.container {
+	padding-top: $navbar-brand-height;
 }

@@ -1,0 +1,86 @@
+<div class="row featurette">
+    {% if include.left %}
+        {% if include.img %}
+        <div class="col-md-6">
+        {% else %}
+        <div class="col-md-12">
+        {% endif %}
+            <h2>{{ include.header }}</h2>
+            <p class="lead">
+                {{ include.lead }}
+            </p>
+            {% if include.content %}
+            <p>
+                {{ include.content }}
+            </p>
+            {% endif %}
+            {% if include.content2 %}
+            <p>
+                {{ include.content2 }}
+            </p>
+            {% endif %}
+            {% if include.content3 %}
+            <p>
+                {{ include.content3 }}
+            </p>
+            {% endif %}
+            {% if include.content4 %}
+            <p>
+                {{ include.content4 }}
+            </p>
+            {% endif %}
+            {% if include.href %}
+            <p>
+                <a class="btn btn-primary" href="{{ include.href }}">{{ include.linktext }}</a>
+            </p>
+            {% endif %}
+        </div>
+        {% if include.img %}
+        <div class="col-md-5 offset-sm-1">
+            <img src="{{ include.img }}" alt="{{ include.alt }}" class="img-fluid" />
+        </div>
+        {% endif %}
+    {% else %}
+        {% if include.img %}
+        <div class="col-md-5">
+            <img src="{{ include.img }}" alt="{{ include.alt }}" class="img-fluid" />
+        </div>
+        {% endif %}
+        {% if include.img %}
+        <div class="col-md-6 offset-sm-1">
+        {% else %}
+        <div class="col-md-12">
+        {% endif %}
+            <h2>{{ include.header }}</h2>
+            <p class="lead">
+                {{ include.lead }}
+            </p>
+            {% if include.content %}
+            <p>
+                {{ include.content }}
+            </p>
+            {% endif %}
+            {% if include.content2 %}
+            <p>
+                {{ include.content2 }}
+            </p>
+            {% endif %}
+            {% if include.content3 %}
+            <p>
+                {{ include.content3 }}
+            </p>
+            {% endif %}
+            {% if include.content4 %}
+            <p>
+                {{ include.content4 }}
+            </p>
+            {% endif %}
+            {% if include.href %}
+            <p>
+                <a class="btn btn-primary" href="{{ include.href }}">{{ include.linktext }}</a>
+            </p>
+            {% endif %}
+        </div>
+    {% endif %}
+
+</div>
