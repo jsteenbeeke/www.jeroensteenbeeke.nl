@@ -44,7 +44,5 @@ title:     Jeroen Steenbeeke
             href="/about.html"
             linktext="Read more"
     %}
-    <hr />
-    
 </div>
 
