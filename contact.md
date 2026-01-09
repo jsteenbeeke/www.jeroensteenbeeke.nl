@@ -28,3 +28,4 @@ A few things to keep in mind, however:
 - I cannot help you convert your LaTeX file to EPUB. Yes, I did write a convertor for this that I still use, but it only supports a subset of LaTeX, probably not the fancy stuff you have in your PhD thesis
   - Yes, I realize that bullet point is oddly specific
   - I've had to disappoint a number of people over the years who found a blog post where I wrote about this tool
+- Sending me a wall of LLM-generated text is a very good way of never getting a response
